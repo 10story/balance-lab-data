@@ -12,6 +12,11 @@ window.prismPetSupply = {
         "display": true
       },
       {
+        "type": "Message from Diego",
+        "name": "Message from Diego",
+        "display": true
+      },
+      {
         "type": "timer",
         "name": "Timer",
         "display": true
@@ -20,7 +25,7 @@ window.prismPetSupply = {
     "videos": [
       {
         "title": "Teacher's Guide Video",
-        "wistiaId": "ape95tt54v"
+        "wistiaId": "6rdu35rism"
       }
     ],
     "slides": [
@@ -35,9 +40,6 @@ window.prismPetSupply = {
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/f624a5ab-d1dc-42b3-b450-b22f9bad975e/PGO-S1-WELCOME-5.png?format=2500w"
-      },
-      {
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/71c91aaf-7207-4b89-be27-dea0bba8b7eb/PGO-S1-WELCOME-6.png?format=2500w"
       },
       {
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/ec9f2d0b-701d-4ce4-be09-7568aa0880f3/PGO-S1-WELCOME-7.png?format=2500w"
@@ -105,24 +107,24 @@ window.prismPetSupply = {
     ],
     "resources": [
       {
-        "name": "Pre-Assessment",
-        "url": "https://www.algebrastudio.org/s/Algebra-Studio-Pre-Assessment.pdf"
-      },
-      {
-        "name": "Pre-Assessment Answer Key",
-        "url": "https://www.algebrastudio.org/s/Algebra-Studio-Pre-Assessment-Answers.pdf"
-      },
-      {
         "name": "Exit Ticket",
-        "url": "https://www.algebrastudio.org/s/1-Exit.pdf"
+        "url": "https://www.10storylearning.com/s/Dear-Diego-Session-1.pdf"
       },
       {
-        "name": "Exit Ticket Answer Key",
-        "url": "https://www.algebrastudio.org/s/1-Exit-answer-key.pdf"
+        "name": "Blueprint Activity",
+        "url": "https://www.10storylearning.com/s/Session-1-Bonus.pdf"
       },
       {
-        "name": "All Balance Lab Printables in 1 File",
-        "url": "https://www.algebrastudio.org/s/Algebra-Studio-Coming-Soon.pdf"
+        "name": "PRISM Grid",
+        "url": "https://www.10storylearning.com/s/prism1-1-building-grid.pdf"
+      },
+      {
+        "name": "Name Cards",
+        "url": "https://www.10storylearning.com/s/prism1-1-name-card-up.pdf"
+      },
+      {
+        "name": "Cats Grid",
+        "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-CATS.pdf"
       }
     ]
   },
