@@ -22,12 +22,21 @@ window.prismPetsupply = [
       {
         "name": "Teacher's Guide Video",
         "wistiaId": "wvideo=6rdu35rism"
+      },
+      {
+        "name": "Diego video",
+        "wistiaId": "wvideo=57ib0j6uin"
       }
     ],
     "slides": [
       {
         "number": 1,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/c93e9c0f-adb4-407c-a6b3-19064e5cb5bc/PGO-S1-WELCOME-1.png?format=2500w",
+        "opensVideoId": "wvideo=57ib0j6uin"
+      },
+      {
+        "number": 2,
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b1212888-426d-4857-8b4f-bd7d6f547861/51-65.009.png?format=2500w",
         "opensVideoId": ""
       },
       {
