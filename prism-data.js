@@ -221,12 +221,12 @@ window.prismPetsupply = [
       {
         "type": "slides",
         "display": "yes",
-        "name": "Lesson 2 Slides"
+        "name": "Lesson 1 Slides"
       },
       {
-        "type": "cups and cubes",
-        "display": "no",
-        "name": ""
+        "type": "Message from Diego",
+        "display": "yes",
+        "name": "Message from Diego"
       },
       {
         "type": "timer",
@@ -237,148 +237,137 @@ window.prismPetsupply = [
     "videos": [
       {
         "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=rn02pnr9hc"
+        "wistiaId": "wvideo=kc8x7uchvq"
+      },
+      {
+        "name": "Diego video",
+        "wistiaId": "wvideo=mt2eyf7n3r"
       }
     ],
     "slides": [
       {
         "number": 1,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/48e04947-2aa6-4105-bf8a-51bc135481bc/1-14.002.png",
-        "opensVideoId": ""
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/7e90fb92-b834-4354-b08f-1b6fff9d0bf3/PGO-S2-WELCOME-1.png?format=2500w",
+        "opensVideoId": "wvideo=mt2eyf7n3r"
       },
       {
         "number": 2,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/5450cd82-8577-4d31-b471-13e6238f7d98/27-50.001.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/af8d76ad-6a93-4c65-8ec7-7f7ccbb88570/PGO-S2-WELCOME-2.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 3,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/58522a3e-2cfa-4e74-b68c-55acb083feaf/27-50.002.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/4c58f378-a49d-4759-91aa-cec4dc4b5a85/PGO-S2-WELCOME-3.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 4,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/2c7d027b-22d7-4f0f-b305-7836f7761ae6/27-50.003.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/f798abbe-6cb2-4089-9d9b-d7991e0bb8dd/PGO-S2-WELCOME-4.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 5,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/bc4a3a8e-b4a6-4305-a850-e07f9c53360e/27-50.004.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/765096a5-e8b6-4618-9658-1907153fbaf4/PGO-S2-WELCOME-5.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 6,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/6fbef8b6-3005-45bc-84d9-712261d951c2/27-50.005.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/4e6a439f-78d1-4852-8143-1553d074ae4d/PGO-S2-WELCOME-6.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 7,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/5b845ba4-c698-4067-9542-cda65f468fda/27-50.006.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/75284f29-5189-4cc1-8c11-7a9dbdeee4eb/PGO-S2-WELCOME-7.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 8,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/d3f9a4c8-f296-4f2b-a533-31c69d05851f/27-50.007.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/2fd77916-f3d9-44fb-8db0-845113343bd0/PGO-S2-MAPS-1.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 9,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/1ca385df-874e-471b-a0f2-c89f098459d8/27-50.008.png?format=2500w",
-        "opensVideoId": ""
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/80fee7af-c402-4f3a-873a-e8511b09c4b4/PGO-S2-MAPS-3.png?format=2500w",
+        "opensVideoId": "lf7w7ok0av"
       },
       {
         "number": 10,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/e29fd3d9-6bb3-4d31-8224-9a403d750d23/27-50.009.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/15bf9624-f06e-4fe2-b847-fbb35a7083a6/PGO-S2-MAPS-2.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 11,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/bc7c7719-a080-4568-bee2-9f87464a115e/27-50.010.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/134b6040-58de-4a56-8547-a7e2a63e04e9/PGO-S2-MAPS-4A.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 12,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/68c13cfc-c595-4a7f-8b81-8addc4bdcd56/27-50.011.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/0ac97e78-8e5b-4988-a54f-990360434c1d/PGO-S2-MAPS-4B.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 13,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/86061d08-6a05-416c-b147-dd451a917fba/27-50.012.png?format=2500w",
-        "opensVideoId": ""
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/011b34ee-5dff-45e8-b0d3-f585fe331826/PGO-S2-MAPS-5.png?format=2500w",
+        "opensVideoId": "l80z2xp0ja"
       },
       {
         "number": 14,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/a3cb2b13-aadd-45d1-886c-c287542d75a8/40.001.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/0b981455-d33a-42be-b613-16297205f513/PGO-S2-MAPS-6.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 15,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/4120e8f8-762a-49f5-be2d-c127a3c6ea62/27-50.014.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/4ca356cf-82c7-4277-8317-af585f9012eb/PGO-S2-STAFFMTG-1.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 16,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b38ad9c2-3a59-4804-8c2a-710d9489d071/27-50.015.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/9db96c6f-cd58-40c8-9ce1-109ff2f14d0e/PGO-S2-STAFFMTG-2.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 17,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/7fed3ddc-18e1-40a4-ae16-2882e64e6d7a/27-50.016.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/4aa0a602-e6de-48d3-a9f6-6542d5ccecf1/PGO-S2-STAFFMTG-3.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 18,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/be05f96a-d024-4608-a033-1a1010576e83/27-50.017.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/82720dfa-a542-4f03-9c93-adc219619d55/PGO-S2-STAFFMTG-4.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 19,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/3f503edc-eac1-4de3-8e07-2dc80f7f5868/27-50.018.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/d4fcc872-0bf6-4823-ae3b-da51a06d7b2c/PGO-S2-STAFFMTG-5.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 20,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/cfcf6c3a-0681-4e40-8bd8-b3882e7c7e21/27-50.019.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/d9775ddb-16ef-40de-9c04-2abf735feeba/PGO-S2-STAFFMTG-6.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 21,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/78b514af-1842-4170-be47-c0b0bb618eab/27-50.020.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/2c12d07a-ded1-49f3-b887-86ee51d7a762/PGO-S2-STAFFMTG-7.png?format=2500w",
         "opensVideoId": ""
       },
       {
         "number": 22,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/4bef908c-cd8d-41e7-bc30-b115c57b3aad/27-50.021.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 23,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/c3d1fb59-dcbe-4d9e-bbf0-a7d6bdab1918/27-50.022.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 24,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b5b613cd-f0f4-4b43-83c9-c4c37569d983/27-50.023.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 25,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b01f1ede-25e4-4d01-9c89-e28cfc1fd676/27-50.024.png?format=2500w",
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/4cf9e893-9e8e-481d-ae8c-ec2be28cf367/PGO-S2-STAFFMTG-8new.png?format=2500w",
         "opensVideoId": ""
       }
     ],
     "pdfs": [
       {
-        "name": "Weight Relationships Sheet",
-        "url": "https://www.algebrastudio.org/s/2-Weight-Relationships-2.pdf"
+        "name": "Bar Graph",
+        "url": "https://www.10storylearning.com/s/prism1-2-building-graphs-up4.pdf"
+      },
+      {
+        "name": "Ballots",
+        "url": "https://www.10storylearning.com/s/building-voting-ballot.pdf"
       },
       {
         "name": "Exit Ticket",
-        "url": "https://www.algebrastudio.org/s/2-Exit-haap.pdf"
-      },
-      {
-        "name": "Exit Ticket Answer Key",
-        "url": "https://www.algebrastudio.org/s/2-Exit-answers.pdf"
+        "url": "https://www.10storylearning.com/s/Dear-Diego-Session-2.pdf"
       }
     ]
   },
@@ -388,12 +377,12 @@ window.prismPetsupply = [
       {
         "type": "slides",
         "display": "yes",
-        "name": "Lesson 3 Slides"
+        "name": "Lesson 1 Slides"
       },
       {
-        "type": "cups and cubes",
-        "display": "no",
-        "name": ""
+        "type": "Message from Diego",
+        "display": "yes",
+        "name": "Message from Diego"
       },
       {
         "type": "timer",
@@ -404,11 +393,11 @@ window.prismPetsupply = [
     "videos": [
       {
         "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=utgkuefn1q"
+        "wistiaId": "wvideo=pwq87dn0go"
       },
       {
-        "name": "How to Play \"In Balance\"",
-        "wistiaId": "wvideo=nddp6xiakd"
+        "name": "Diego video",
+        "wistiaId": "wvideo=bxqk5jqihu"
       }
     ],
     "slides": [
@@ -518,12 +507,12 @@ window.prismPetsupply = [
       {
         "type": "slides",
         "display": "yes",
-        "name": "Lesson 4 Slides"
+        "name": "Lesson 1 Slides"
       },
       {
-        "type": "cups and cubes",
-        "display": "no",
-        "name": ""
+        "type": "Message from Diego",
+        "display": "yes",
+        "name": "Message from Diego"
       },
       {
         "type": "timer",
@@ -534,7 +523,11 @@ window.prismPetsupply = [
     "videos": [
       {
         "name": "Teacher's Guide",
-        "wistiaId": "wvideo=59caw9q5td"
+        "wistiaId": "wvideo=2y5gkw7psq"
+      },
+      {
+        "name": "Diego video",
+        "wistiaId": "wvideo=vwi5ehic4f"
       }
     ],
     "slides": [
@@ -666,12 +659,12 @@ window.prismPetsupply = [
       {
         "type": "slides",
         "display": "yes",
-        "name": "Lesson 5 Slides"
+        "name": "Lesson 1 Slides"
       },
       {
-        "type": "cups and cubes",
+        "type": "Message from Diego",
         "display": "yes",
-        "name": "Cups & Cubes Simulator"
+        "name": "Message from Diego"
       },
       {
         "type": "timer",
@@ -682,11 +675,11 @@ window.prismPetsupply = [
     "videos": [
       {
         "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=ycmdaiy6xx"
+        "wistiaId": "wvideo=urwrmbhlt8"
       },
       {
-        "name": "Mini-Lesson: Solving with Trial & Error",
-        "wistiaId": "wvideo=tyqb127lyy"
+        "name": "Diego video",
+        "wistiaId": "wvideo=nqawjbgxfe"
       }
     ],
     "slides": [
@@ -834,12 +827,12 @@ window.prismPetsupply = [
       {
         "type": "slides",
         "display": "yes",
-        "name": "Lesson 6 Slides"
+        "name": "Lesson 1 Slides"
       },
       {
-        "type": "cups and cubes",
+        "type": "Message from Diego",
         "display": "yes",
-        "name": "Cups & Cubes"
+        "name": "Message from Diego"
       },
       {
         "type": "timer",
@@ -850,11 +843,11 @@ window.prismPetsupply = [
     "videos": [
       {
         "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=bc14xtmgix"
+        "wistiaId": "wvideo=esj2sd7fit"
       },
       {
-        "name": "Mini-Lesson: Representing Algebraic Equations",
-        "wistiaId": "wvideo=37zvevysyp"
+        "name": "Diego video",
+        "wistiaId": "wvideo=bnhij52oqc"
       }
     ],
     "slides": [
@@ -984,12 +977,12 @@ window.prismPetsupply = [
       {
         "type": "slides",
         "display": "yes",
-        "name": "Lesson 7 Slides"
+        "name": "Lesson 1 Slides"
       },
       {
-        "type": "cups and cubes",
+        "type": "Message from Diego",
         "display": "yes",
-        "name": "Cups & Cubes Simulator"
+        "name": "Message from Diego"
       },
       {
         "type": "timer",
@@ -1000,11 +993,11 @@ window.prismPetsupply = [
     "videos": [
       {
         "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=a9l5alfflb"
+        "wistiaId": "wvideo=z6brncp6cm"
       },
       {
-        "name": "Mini-Lesson: Equations with Negative Numbers",
-        "wistiaId": "wvideo=uha1thwl70"
+        "name": "Diego video",
+        "wistiaId": "wvideo=lvf6pgftsr"
       }
     ],
     "slides": [
@@ -1119,12 +1112,12 @@ window.prismPetsupply = [
       {
         "type": "slides",
         "display": "yes",
-        "name": "Lesson 8 Slides"
+        "name": "Lesson 1 Slides"
       },
       {
-        "type": "cups and cubes",
+        "type": "Message from Diego",
         "display": "yes",
-        "name": "Cups & Cubes Simulator"
+        "name": "Message from Diego"
       },
       {
         "type": "timer",
@@ -1135,11 +1128,11 @@ window.prismPetsupply = [
     "videos": [
       {
         "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=r758y54ntv"
+        "wistiaId": "wvideo=d6s4ql6bpd"
       },
       {
-        "name": "Mini-Lesson: Isolate the Variable",
-        "wistiaId": "wvideo=2cs8p221wz"
+        "name": "Diego video",
+        "wistiaId": "wvideo=87dbyqou8z"
       }
     ],
     "slides": [
@@ -1244,12 +1237,12 @@ window.prismPetsupply = [
       {
         "type": "slides",
         "display": "yes",
-        "name": "Lesson 9 Slides"
+        "name": "Lesson 1 Slides"
       },
       {
-        "type": "cups and cubes",
+        "type": "Message from Diego",
         "display": "yes",
-        "name": "Cups & Cubes Simulator"
+        "name": "Message from Diego"
       },
       {
         "type": "timer",
@@ -1260,15 +1253,11 @@ window.prismPetsupply = [
     "videos": [
       {
         "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=wuhs669rir"
+        "wistiaId": "wvideo=ve9or8y4tj"
       },
       {
-        "name": "Mini-Lesson: Zero Pairs",
-        "wistiaId": "wvideo=685j0sgb4o"
-      },
-      {
-        "name": "How to Play \"Zero Out\"",
-        "wistiaId": "wvideo=5zachjwhbe"
+        "name": "Diego video",
+        "wistiaId": "wvideo=ho7waf69q1"
       }
     ],
     "slides": [
@@ -1382,12 +1371,12 @@ window.prismPetsupply = [
       {
         "type": "slides",
         "display": "yes",
-        "name": "Lesson 10 Slides"
+        "name": "Lesson 1 Slides"
       },
       {
-        "type": "cups and cubes",
+        "type": "Message from Diego",
         "display": "yes",
-        "name": "Cups & Cubes Simulator"
+        "name": "Message from Diego"
       },
       {
         "type": "timer",
@@ -1398,11 +1387,11 @@ window.prismPetsupply = [
     "videos": [
       {
         "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=gx123tr3g9"
+        "wistiaId": "wvideo=2mm4xc4abb"
       },
       {
-        "name": "Mini-Lesson: Balanced Moves",
-        "wistiaId": "wvideo=ae6qtgle5k"
+        "name": "Diego video",
+        "wistiaId": "wvideo=z8kbr59tjb"
       }
     ],
     "slides": [
@@ -1498,470 +1487,6 @@ window.prismPetsupply = [
       {
         "name": "Practice Sheet Answer Key",
         "url": "https://www.algebrastudio.org/s/10-Practice-answers.pdf"
-      }
-    ]
-  },
-  {
-    "lesson": 11,
-    "controls": [
-      {
-        "type": "slides",
-        "display": "yes",
-        "name": "Lesson 11 Slides"
-      },
-      {
-        "type": "cups and cubes",
-        "display": "yes",
-        "name": "Cups & Cubes"
-      },
-      {
-        "type": "timer",
-        "display": "yes",
-        "name": "Timer"
-      }
-    ],
-    "videos": [
-      {
-        "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=b2holz3hvb"
-      },
-      {
-        "name": "Mini-Lesson: Distributive Property",
-        "wistiaId": "wvideo=rm4n00v94w"
-      }
-    ],
-    "slides": [
-      {
-        "number": 1,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/ae695a6f-384b-4c25-bb82-0ae68bb52184/293.001.png?format=1000w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 2,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/63326dd3-3040-40e6-b8fe-c09a3abc7246/SESSION+11+SLIDES.001.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 3,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/2e972eb9-ecb4-4d44-9561-a30c84f17faf/SESSION+11+SLIDES.002.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 4,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/6a32c4ec-7aa0-4037-9dba-c71a68a9387a/SESSION+11+SLIDES.003.png?format=2500w",
-        "opensVideoId": "wvideo=rm4n00v94w"
-      },
-      {
-        "number": 5,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/96059c43-dd1e-4f83-ae7d-1129318f1445/SESSION+11+SLIDES.004.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 6,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/3ad8ac48-fa9e-4aca-9d78-c38d2e310946/186.001.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 7,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/acbea58e-8942-4cad-8d02-c2789a411976/187-190.001.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 8,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/bd8727c0-7ebe-4b9c-b1da-c9f3982ad324/187-190.002.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 9,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/73a8d913-c614-4b41-8170-5ee9ed525307/187-190.003.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 10,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/4f42a3bf-58ba-4ad8-bacd-2a9664696d49/187-190.004.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 11,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/40ec101a-691e-42a0-ab9f-39d34e88a7ee/SESSION+11+SLIDES.010.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 12,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/f5b24342-139a-4900-902a-536a52f9e423/SESSION+11+SLIDES.011.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 13,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/fc782f19-8618-47d4-a41e-ec7b418afe26/SESSION+11+SLIDES.012.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 14,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/3626d0ab-acbc-4327-8d6c-26c67d5b2497/11+exit+slide.001.png?format=2500w",
-        "opensVideoId": ""
-      }
-    ],
-    "pdfs": [
-      {
-        "name": "Exit Ticket",
-        "url": "https://www.algebrastudio.org/s/11-Exit-up.pdf"
-      },
-      {
-        "name": "Exit Ticket Answer Key",
-        "url": "https://www.algebrastudio.org/s/11-Exit-up-answers.pdf"
-      },
-      {
-        "name": "Practice Sheet",
-        "url": "https://www.algebrastudio.org/s/11-Practice-up.pdf"
-      },
-      {
-        "name": "Practice Sheet Answer Key",
-        "url": "https://www.algebrastudio.org/s/11-Practice-answers.pdf"
-      }
-    ]
-  },
-  {
-    "lesson": 12,
-    "controls": [
-      {
-        "type": "slides",
-        "display": "yes",
-        "name": "Lesson 12 Slides"
-      },
-      {
-        "type": "cups and cubes",
-        "display": "yes",
-        "name": "Cups & Cubes Simulator"
-      },
-      {
-        "type": "timer",
-        "display": "yes",
-        "name": "Timer"
-      }
-    ],
-    "videos": [
-      {
-        "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=ag5djjsy3l"
-      },
-      {
-        "name": "Mini-Lesson: Solving on Paper 1",
-        "wistiaId": "wvideo=kgrp9vymja"
-      }
-    ],
-    "slides": [
-      {
-        "number": 1,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b702da25-2288-43fa-bf04-d62cd39c0551/294.001.png?format=1000w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 2,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/5788054e-fbab-42a1-a0b5-aee4f62acc33/session+12.001.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 3,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/735a53bb-3dff-4da4-827e-0908aaf6f51b/lesson+12+launch.001.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 4,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b79d3d59-ad87-4327-9262-84aa4309c192/session+12.003.png?format=2500w",
-        "opensVideoId": "wvideo=kgrp9vymja"
-      },
-      {
-        "number": 5,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/7338d61e-f9c9-49df-91a9-3ba4364ecc2e/session+12.004.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 6,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/152a2504-140d-4786-b0ee-55393f6845ee/session+12.005.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 7,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/bdddffee-7732-469e-959b-7d8642b8892c/session+12.006.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 8,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/1301e2a8-6cce-4628-bad0-71f915e6f67d/199.001.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 9,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/5125843c-b64d-4ec3-99a5-fb650b50d02b/session+12.008.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 10,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/2216f820-d652-4f5d-91e0-24d4f99313a7/session+12.009.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 11,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/62110a63-330e-4c6e-aebd-e5d821fd7b98/session+12.010.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 12,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/7c17da5f-3dd9-4864-98a7-e1c896b587c8/session+12.011.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 13,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/5a780e89-d2c7-4325-a285-0856f4cd694a/session+12.012.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 14,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/e9b4d7d2-ff96-45ec-8721-f86cf53d0448/12+exit+slide.001.png?format=2500w",
-        "opensVideoId": ""
-      }
-    ],
-    "pdfs": [
-      {
-        "name": "Graphic Organizer",
-        "url": "https://www.algebrastudio.org/s/12-Graphic-Organizer-2-multicopy.pdf"
-      },
-      {
-        "name": "Exit Ticket",
-        "url": "https://www.algebrastudio.org/s/12-Exit-up.pdf"
-      },
-      {
-        "name": "Exit Ticket Answer Key",
-        "url": "https://www.algebrastudio.org/s/12-Exit-up-answers.pdf"
-      }
-    ]
-  },
-  {
-    "lesson": 13,
-    "controls": [
-      {
-        "type": "slides",
-        "display": "yes",
-        "name": "Lesson 13 Slides"
-      },
-      {
-        "type": "cups and cubes",
-        "display": "yes",
-        "name": "Cups & Cubes Simulator"
-      },
-      {
-        "type": "timer",
-        "display": "yes",
-        "name": "Timer"
-      }
-    ],
-    "videos": [
-      {
-        "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=mhhv2odvgg"
-      },
-      {
-        "name": "Mini-Lesson: Solving on Paper 2",
-        "wistiaId": "wvideo=r0986ezqih"
-      }
-    ],
-    "slides": [
-      {
-        "number": 1,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/e1fc4b20-76de-4acd-96b6-3a27ad9c5d17/295.001.png?format=1000w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 2,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/134e0ce5-5c2c-43af-9267-7db3d80b6b1b/208-219.001.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 3,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/8ed944f4-efc6-4b68-91f8-7041987349a0/lesson+13+launch.001.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 4,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/4657ba91-2645-48b4-8aef-2d23c20076cb/208-219.003.png?format=2500w",
-        "opensVideoId": "wvideo=r0986ezqih"
-      },
-      {
-        "number": 5,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/3e944db6-5e3f-4e2c-b311-ee6d217ab6b0/208-219.004.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 6,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b54d2877-42a0-47c6-841f-152fa3e214ec/208-219.005.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 7,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/ff707960-58b7-4eee-b142-68967848b1d4/208-219.006.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 8,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/c868736b-56da-4a12-b922-3cf03a76a926/208-219.007.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 9,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/db473047-12cd-4dc3-a98b-95a5f23edc93/208-219.008.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 10,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/c954ac1f-e026-4e34-a777-50d92bda4ced/208-219.009.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 11,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b6e31239-9427-4c16-a81f-0b22ea7b748f/208-219.010.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 12,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b788422b-01f2-4cb9-b264-f83249a94c82/208-219.011.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 13,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/c66e5dd7-cd7a-4a49-a356-dfd6034a6cc8/13+exit+slide.001.png?format=2500w",
-        "opensVideoId": ""
-      }
-    ],
-    "pdfs": [
-      {
-        "name": "Practice Sheet",
-        "url": "https://www.algebrastudio.org/s/13-Practice-up.pdf"
-      },
-      {
-        "name": "Practice Sheet Answer Key",
-        "url": "https://www.algebrastudio.org/s/13-Practice-answers.pdf"
-      },
-      {
-        "name": "Extra Practice Sheet",
-        "url": ""
-      },
-      {
-        "name": "Extra Practice Answer Key",
-        "url": ""
-      },
-      {
-        "name": "Exit Ticket",
-        "url": "https://www.algebrastudio.org/s/13-Exit-up.pdf"
-      },
-      {
-        "name": "Exit Ticket Answer Key",
-        "url": "https://www.algebrastudio.org/s/13-Exit-up-answers.pdf"
-      }
-    ]
-  },
-  {
-    "lesson": 14,
-    "controls": [
-      {
-        "type": "slides",
-        "display": "yes",
-        "name": "Lesson 14 Slides"
-      },
-      {
-        "type": "cups and cubes",
-        "display": "yes",
-        "name": "Cups & Cubes Simulator"
-      },
-      {
-        "type": "timer",
-        "display": "yes",
-        "name": "Timer"
-      }
-    ],
-    "videos": [
-      {
-        "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=li712v0ptc"
-      },
-      {
-        "name": "Mini-Lesson: How to Play \"Card X\"",
-        "wistiaId": "wvideo=nmvsrgkhtz"
-      }
-    ],
-    "slides": [
-      {
-        "number": 1,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/70eb6f84-a314-4594-a43e-3f454a3de4b9/296.001.png?format=1000w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 2,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b6578aba-3d74-4bf6-94e3-67ec345763ad/lesson+14+slides.001.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 3,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/32339f4f-ff19-463c-aaee-bdcdc30f19d3/lesson+14+slides.002.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 4,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/9f6e1e92-6868-4248-aaf7-1b35b3c22918/lesson+14+slides.003.png?format=2500w",
-        "opensVideoId": "wvideo=nmvsrgkhtz"
-      },
-      {
-        "number": 5,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b2a4395d-f965-4741-972d-bd5392aae64c/lesson+14+slides.004.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 6,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/e9689880-dd05-4cc4-be25-067f55780893/lesson+14+slides.005.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 7,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/a05ba5d0-a1d2-4541-b41e-7d4a474d4b55/lesson+14+slides.006.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 8,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/8a2efb02-5ea9-4e86-b136-63289f584b5d/lesson+14+slides.007.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 9,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/00aa5783-dcc4-4969-808e-6d786130241f/lesson+14+slides.008.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 10,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/f086cc5f-205a-4b2b-ae96-4a2253ed2ad2/229.001.png?format=2500w",
-        "opensVideoId": ""
-      },
-      {
-        "number": 11,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/45aa6bcd-bc9b-42d3-a3da-baa9211e42ab/lesson+14+slides.010.png?format=2500w",
-        "opensVideoId": ""
-      }
-    ],
-    "pdfs": [
-      {
-        "name": "Exit Ticket",
-        "url": "https://www.algebrastudio.org/s/14-Exit-up.pdf"
-      },
-      {
-        "name": "Exit Ticket Answer Key",
-        "url": "https://www.algebrastudio.org/s/14-Exit-up-answers.pdf"
-      },
-      {
-        "name": "Post-Assessment",
-        "url": "https://www.algebrastudio.org/s/Algebra-Studio-Post-Assessment.pdf"
-      },
-      {
-        "name": "Post-Assessment Answer Key",
-        "url": "https://www.algebrastudio.org/s/Algebra-Studio-Post-Assessment-Answers.pdf"
       }
     ]
   }
