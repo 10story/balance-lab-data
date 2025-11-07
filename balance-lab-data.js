@@ -1,7 +1,8 @@
 // Balance Lab Data - Auto-generated from CSV
-// Includes all 14 lessons + Welcome screen
+// Last updated: 2024-11-07
+// Total lessons: 15
 
-const lessonData = {
+window.balanceLabData = {
   "1": {
     "name": "Lesson 1",
     "controls": [
@@ -1444,10 +1445,14 @@ const lessonData = {
     ]
   },
   "0": {
-    "name": "Welcome to Balance Lab",
+    "name": "Welcome",
     "controls": [],
     "videos": [],
-    "slides": [],
+    "slides": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/your-home-image.png"
+      }
+    ],
     "resources": []
   }
 };
