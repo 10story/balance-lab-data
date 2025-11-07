@@ -2,7 +2,7 @@
 // Last updated: 2024-11-07
 // Total lessons: 15
 
-window.prismData = {
+window.prismPetSupply = {
   "1": {
     "name": "Lesson 1",
     "controls": [
