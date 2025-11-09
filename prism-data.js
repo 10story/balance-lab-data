@@ -108,7 +108,7 @@ window.prismPetsupply = [
       }
     ],
     "primaryPdf": {
-      "name": "All Free Printables",
+      "name": "Download All Printables",
       "url": null,
       "membership": 0
     },
@@ -119,7 +119,7 @@ window.prismPetsupply = [
         "membership": 0
       },
       {
-        "name": "Blueprint (tiled)",
+        "name": "Blueprint",
         "url": "https://www.10storylearning.com/s/PPS1-Blueprintposter-3.pdf",
         "membership": 0
       },
