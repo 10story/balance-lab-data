@@ -1,0 +1,756 @@
+window.balanceLab = [
+  {
+    "lesson": 1,
+    "lessonName": "Lesson 1",
+    "prints": 1,
+    "materials": 1,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Lesson 1 Slides"
+      },
+      {
+        "type": "Timer",
+        "name": "Timer"
+      }
+    ],
+    "videos": [
+      {
+        "name": "Teacher's Guide Video",
+        "wistiaId": "ape95tt54v"
+      }
+    ],
+    "pdfItems": [
+      {
+        "name": "Pre-Assessment",
+        "url": "https://www.algebrastudio.org/s/Algebra-Studio-Pre-Assessment.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Pre-Assessment Answer Key",
+        "url": "https://www.algebrastudio.org/s/Algebra-Studio-Pre-Assessment-Answers.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket",
+        "url": "https://www.algebrastudio.org/s/1-Exit.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket Answer Key",
+        "url": "https://www.algebrastudio.org/s/1-Exit-answer-key.pdf",
+        "membership": 0
+      },
+      {
+        "name": "All Balance Lab Printables in 1 File",
+        "url": "https://www.algebrastudio.org/s/Algebra-Studio-Coming-Soon.pdf",
+        "membership": 0
+      }
+    ]
+  },
+  {
+    "lesson": 2,
+    "lessonName": "Lesson 2",
+    "prints": 1,
+    "materials": 1,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Lesson 2 Slides"
+      },
+      {
+        "type": "Timer",
+        "name": "Timer"
+      }
+    ],
+    "videos": [
+      {
+        "name": "Teacher's Guide Video",
+        "wistiaId": "rn02pnr9hc"
+      }
+    ],
+    "pdfItems": [
+      {
+        "name": "Weight Relationships Sheet",
+        "url": "https://www.algebrastudio.org/s/2-Weight-Relationships-2.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket",
+        "url": "https://www.algebrastudio.org/s/2-Exit-haap.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket Answer Key",
+        "url": "https://www.algebrastudio.org/s/2-Exit-answers.pdf",
+        "membership": 0
+      }
+    ]
+  },
+  {
+    "lesson": 3,
+    "lessonName": "Lesson 3",
+    "prints": 1,
+    "materials": 1,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Lesson 3 Slides"
+      },
+      {
+        "type": "Timer",
+        "name": "Timer"
+      }
+    ],
+    "videos": [
+      {
+        "name": "Teacher's Guide Video",
+        "wistiaId": "utgkuefn1q"
+      },
+      {
+        "name": "How to Play \"In Balance\"",
+        "wistiaId": "nddp6xiakd"
+      }
+    ],
+    "pdfItems": [
+      {
+        "name": "Weight Relationships Sheet",
+        "url": "https://www.algebrastudio.org/s/2-Weight-Relationships-2.pdf",
+        "membership": 0
+      },
+      {
+        "name": "In Balance Instructions & Scorecard",
+        "url": "https://www.algebrastudio.org/s/3-IN-BALANCE-Scorecard-2-2.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket",
+        "url": "https://www.algebrastudio.org/s/3b-Exit-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket Answer Key",
+        "url": "https://www.algebrastudio.org/s/3b-Exit-up-answers.pdf",
+        "membership": 0
+      }
+    ]
+  },
+  {
+    "lesson": 4,
+    "lessonName": "Lesson 4",
+    "prints": 1,
+    "materials": 1,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Lesson 4 Slides"
+      },
+      {
+        "type": "Timer",
+        "name": "Timer"
+      }
+    ],
+    "videos": [
+      {
+        "name": "Teacher's Guide",
+        "wistiaId": "59caw9q5td"
+      }
+    ],
+    "pdfItems": [
+      {
+        "name": "Puzzle Level 1 (self-check)",
+        "url": "https://www.algebrastudio.org/s/practice-cards-level1-horiz.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Puzzle Level 1 (no answers)",
+        "url": "https://www.algebrastudio.org/s/practice-cards-level1-horiz-no-answer.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Puzzle Level 2 (self-check)",
+        "url": "https://www.algebrastudio.org/s/practice-cards-level2-horiz.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Puzzle Level 2 (no answers)",
+        "url": "https://www.algebrastudio.org/s/practice-cards-level2-horiz-no-answer.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Puzzle Level 3 (self-check)",
+        "url": "https://www.algebrastudio.org/s/practice-cards-level3-horiz.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Puzzle Level 3 (no answers)",
+        "url": "https://www.algebrastudio.org/s/practice-cards-level3-horiz-no-answer.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Puzzle Level Ultra (self-check)",
+        "url": "https://www.algebrastudio.org/s/practice-cards-level-ultra-horiz.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Puzzle Level Ultra (no answers)",
+        "url": "https://www.algebrastudio.org/s/practice-cards-level-ultra-horiz-no-answer.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Puzzle Answer Key",
+        "url": "https://www.algebrastudio.org/s/practice-cards-answer-key-xwg7.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Create a Puzzle",
+        "url": "https://www.algebrastudio.org/s/create-your-own-pdf.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket",
+        "url": "https://www.algebrastudio.org/s/4a-rev-Exit-77zb.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket Answer Key",
+        "url": "https://www.algebrastudio.org/s/4a-rev-Exit-answers.pdf",
+        "membership": 0
+      }
+    ]
+  },
+  {
+    "lesson": 5,
+    "lessonName": "Lesson 5",
+    "prints": 1,
+    "materials": 1,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Lesson 5 Slides"
+      },
+      {
+        "type": "Simulator",
+        "name": "Cups & Cubes Simulator"
+      },
+      {
+        "type": "Timer",
+        "name": "Timer"
+      }
+    ],
+    "videos": [
+      {
+        "name": "Teacher's Guide Video",
+        "wistiaId": "ycmdaiy6xx"
+      },
+      {
+        "name": "Mini-Lesson: Solving with Trial & Error",
+        "wistiaId": "tyqb127lyy"
+      }
+    ],
+    "pdfItems": [
+      {
+        "name": "Practice Sheet",
+        "url": "https://www.algebrastudio.org/s/5-Practice-2-lt32.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Practice Sheet Answer Key",
+        "url": "https://www.algebrastudio.org/s/5-Practice-2-answers.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Extra Practice Sheet",
+        "url": "https://www.algebrastudio.org/s/5-extra-Practice.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Extra Practice Answer Key",
+        "url": "https://www.algebrastudio.org/s/5-extra-Practice-answers.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket",
+        "url": "https://www.algebrastudio.org/s/5-Exit-mcyj.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket Answer Key",
+        "url": "https://www.algebrastudio.org/s/5-Exit-answers.pdf",
+        "membership": 0
+      }
+    ]
+  },
+  {
+    "lesson": 6,
+    "lessonName": "Lesson 6",
+    "prints": 1,
+    "materials": 1,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Lesson 6 Slides"
+      },
+      {
+        "type": "Simulator",
+        "name": "Cups & Cubes"
+      },
+      {
+        "type": "Timer",
+        "name": "Timer"
+      }
+    ],
+    "videos": [
+      {
+        "name": "Teacher's Guide Video",
+        "wistiaId": "bc14xtmgix"
+      },
+      {
+        "name": "Mini-Lesson: Representing Algebraic Equations",
+        "wistiaId": "37zvevysyp"
+      }
+    ],
+    "pdfItems": [
+      {
+        "name": "Practice Sheet",
+        "url": "https://www.algebrastudio.org/s/6-Practice3.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Practice Sheet Answer Key",
+        "url": "https://www.algebrastudio.org/s/6-Practice3-answers.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket",
+        "url": "https://www.algebrastudio.org/s/6-Exit-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket Answer Key",
+        "url": "https://www.algebrastudio.org/s/6-Exit-up-answers.pdf",
+        "membership": 0
+      }
+    ]
+  },
+  {
+    "lesson": 7,
+    "lessonName": "Lesson 7",
+    "prints": 1,
+    "materials": 1,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Lesson 7 Slides"
+      },
+      {
+        "type": "Simulator",
+        "name": "Cups & Cubes Simulator"
+      },
+      {
+        "type": "Timer",
+        "name": "Timer"
+      }
+    ],
+    "videos": [
+      {
+        "name": "Teacher's Guide Video",
+        "wistiaId": "a9l5alfflb"
+      },
+      {
+        "name": "Mini-Lesson: Equations with Negative Numbers",
+        "wistiaId": "uha1thwl70"
+      }
+    ],
+    "pdfItems": [
+      {
+        "name": "Practice Sheet",
+        "url": "https://www.algebrastudio.org/s/7-Practice-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Practice Sheet Answer Key",
+        "url": "https://www.algebrastudio.org/s/7-Practice-answers.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket",
+        "url": "https://www.algebrastudio.org/s/7-Exit-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket Answer Key",
+        "url": "https://www.algebrastudio.org/s/7-Exit-up-answers.pdf",
+        "membership": 0
+      }
+    ]
+  },
+  {
+    "lesson": 8,
+    "lessonName": "Lesson 8",
+    "prints": 1,
+    "materials": 1,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Lesson 8 Slides"
+      },
+      {
+        "type": "Simulator",
+        "name": "Cups & Cubes Simulator"
+      },
+      {
+        "type": "Timer",
+        "name": "Timer"
+      }
+    ],
+    "videos": [
+      {
+        "name": "Teacher's Guide Video",
+        "wistiaId": "r758y54ntv"
+      },
+      {
+        "name": "Mini-Lesson: Isolate the Variable",
+        "wistiaId": "2cs8p221wz"
+      }
+    ],
+    "pdfItems": [
+      {
+        "name": "Exit Ticket",
+        "url": "https://www.algebrastudio.org/s/8-Exit-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket Answer Key",
+        "url": "https://www.algebrastudio.org/s/8-Exit-up-answers.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Practice Sheet",
+        "url": "https://www.algebrastudio.org/s/8-Practice-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Practice Sheet Answer Key",
+        "url": "https://www.algebrastudio.org/s/8-Practice-answers.pdf",
+        "membership": 0
+      }
+    ]
+  },
+  {
+    "lesson": 9,
+    "lessonName": "Lesson 9",
+    "prints": 1,
+    "materials": 1,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Lesson 9 Slides"
+      },
+      {
+        "type": "Simulator",
+        "name": "Cups & Cubes Simulator"
+      },
+      {
+        "type": "Timer",
+        "name": "Timer"
+      }
+    ],
+    "videos": [
+      {
+        "name": "Teacher's Guide Video",
+        "wistiaId": "wuhs669rir"
+      },
+      {
+        "name": "Mini-Lesson: Zero Pairs",
+        "wistiaId": "685j0sgb4o"
+      },
+      {
+        "name": "How to Play \"Zero Out\"",
+        "wistiaId": "5zachjwhbe"
+      }
+    ],
+    "pdfItems": [
+      {
+        "name": "ZERO OUT Number Line",
+        "url": "https://www.algebrastudio.org/s/zero-out-number-lines-flipped-white.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket",
+        "url": "https://www.algebrastudio.org/s/9-Exit-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket Answer Key",
+        "url": "https://www.algebrastudio.org/s/9-Exit-up-answers.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Practice Sheet",
+        "url": "https://www.algebrastudio.org/s/9-Practice-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Practice Sheet Answer Key",
+        "url": "https://www.algebrastudio.org/s/9-Practice-answers.pdf",
+        "membership": 0
+      }
+    ]
+  },
+  {
+    "lesson": 10,
+    "lessonName": "Lesson 10",
+    "prints": 1,
+    "materials": 1,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Lesson 10 Slides"
+      },
+      {
+        "type": "Simulator",
+        "name": "Cups & Cubes Simulator"
+      },
+      {
+        "type": "Timer",
+        "name": "Timer"
+      }
+    ],
+    "videos": [
+      {
+        "name": "Teacher's Guide Video",
+        "wistiaId": "gx123tr3g9"
+      },
+      {
+        "name": "Mini-Lesson: Balanced Moves",
+        "wistiaId": "ae6qtgle5k"
+      }
+    ],
+    "pdfItems": [
+      {
+        "name": "Exit Ticket",
+        "url": "https://www.algebrastudio.org/s/10-Exit-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket Answer Key",
+        "url": "https://www.algebrastudio.org/s/10-Exit-up-answers.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Practice Sheet",
+        "url": "https://www.algebrastudio.org/s/10-Practice-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Practice Sheet Answer Key",
+        "url": "https://www.algebrastudio.org/s/10-Practice-answers.pdf",
+        "membership": 0
+      }
+    ]
+  },
+  {
+    "lesson": 11,
+    "lessonName": "Lesson 11",
+    "prints": 1,
+    "materials": 1,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Lesson 11 Slides"
+      },
+      {
+        "type": "Simulator",
+        "name": "Cups & Cubes"
+      },
+      {
+        "type": "Timer",
+        "name": "Timer"
+      }
+    ],
+    "videos": [
+      {
+        "name": "Teacher's Guide Video",
+        "wistiaId": "b2holz3hvb"
+      },
+      {
+        "name": "Mini-Lesson: Distributive Property",
+        "wistiaId": "rm4n00v94w"
+      }
+    ],
+    "pdfItems": [
+      {
+        "name": "Exit Ticket",
+        "url": "https://www.algebrastudio.org/s/11-Exit-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket Answer Key",
+        "url": "https://www.algebrastudio.org/s/11-Exit-up-answers.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Practice Sheet",
+        "url": "https://www.algebrastudio.org/s/11-Practice-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Practice Sheet Answer Key",
+        "url": "https://www.algebrastudio.org/s/11-Practice-answers.pdf",
+        "membership": 0
+      }
+    ]
+  },
+  {
+    "lesson": 12,
+    "lessonName": "Lesson 12",
+    "prints": 1,
+    "materials": 1,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Lesson 12 Slides"
+      },
+      {
+        "type": "Simulator",
+        "name": "Cups & Cubes Simulator"
+      },
+      {
+        "type": "Timer",
+        "name": "Timer"
+      }
+    ],
+    "videos": [
+      {
+        "name": "Teacher's Guide Video",
+        "wistiaId": "ag5djjsy3l"
+      },
+      {
+        "name": "Mini-Lesson: Solving on Paper 1",
+        "wistiaId": "kgrp9vymja"
+      }
+    ],
+    "pdfItems": [
+      {
+        "name": "Graphic Organizer",
+        "url": "https://www.algebrastudio.org/s/12-Graphic-Organizer-2-multicopy.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket",
+        "url": "https://www.algebrastudio.org/s/12-Exit-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket Answer Key",
+        "url": "https://www.algebrastudio.org/s/12-Exit-up-answers.pdf",
+        "membership": 0
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "lessonName": "Lesson 13",
+    "prints": 1,
+    "materials": 1,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Lesson 13 Slides"
+      },
+      {
+        "type": "Simulator",
+        "name": "Cups & Cubes Simulator"
+      },
+      {
+        "type": "Timer",
+        "name": "Timer"
+      }
+    ],
+    "videos": [
+      {
+        "name": "Teacher's Guide Video",
+        "wistiaId": "mhhv2odvgg"
+      },
+      {
+        "name": "Mini-Lesson: Solving on Paper 2",
+        "wistiaId": "r0986ezqih"
+      }
+    ],
+    "pdfItems": [
+      {
+        "name": "Practice Sheet",
+        "url": "https://www.algebrastudio.org/s/13-Practice-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Practice Sheet Answer Key",
+        "url": "https://www.algebrastudio.org/s/13-Practice-answers.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket",
+        "url": "https://www.algebrastudio.org/s/13-Exit-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket Answer Key",
+        "url": "https://www.algebrastudio.org/s/13-Exit-up-answers.pdf",
+        "membership": 0
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "lessonName": "Lesson 14",
+    "prints": 1,
+    "materials": 1,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Lesson 14 Slides"
+      },
+      {
+        "type": "Simulator",
+        "name": "Cups & Cubes Simulator"
+      },
+      {
+        "type": "Timer",
+        "name": "Timer"
+      }
+    ],
+    "videos": [
+      {
+        "name": "Teacher's Guide Video",
+        "wistiaId": "li712v0ptc"
+      },
+      {
+        "name": "Mini-Lesson: How to Play \"Card X\"",
+        "wistiaId": "nmvsrgkhtz"
+      }
+    ],
+    "pdfItems": [
+      {
+        "name": "Exit Ticket",
+        "url": "https://www.algebrastudio.org/s/14-Exit-up.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Exit Ticket Answer Key",
+        "url": "https://www.algebrastudio.org/s/14-Exit-up-answers.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Post-Assessment",
+        "url": "https://www.algebrastudio.org/s/Algebra-Studio-Post-Assessment.pdf",
+        "membership": 0
+      },
+      {
+        "name": "Post-Assessment Answer Key",
+        "url": "https://www.algebrastudio.org/s/Algebra-Studio-Post-Assessment-Answers.pdf",
+        "membership": 0
+      }
+    ]
+  }
+];
