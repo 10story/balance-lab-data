@@ -97,7 +97,7 @@ window.prismPetsupply = [
     ],
     "primaryPdf": {
       "name": "Download All Printables",
-      "url": "",
+      "url": "https://www.10storylearning.com/s/All-Printables-Lesson-1.pdf",
       "membership": 0
     },
     "slides": [
@@ -221,12 +221,15 @@ window.prismPetsupply = [
       {
         "name": "PRISM Ruler",
         "url": "",
-        "membership": 0
+        "membership": 0,
+        "scissors": 1
       },
       {
         "name": "Map",
         "url": "https://www.10storylearning.com/s/prism1-2-map-howie-up5.pdf",
-        "membership": 0
+        "membership": 0,
+        "scissors": 1,
+        "tape": 1
       },
       {
         "name": "Bar Graph",
@@ -236,12 +239,14 @@ window.prismPetsupply = [
       {
         "name": "Ballots",
         "url": "https://www.10storylearning.com/s/building-voting-ballot.pdf",
-        "membership": 0
+        "membership": 0,
+        "scissors": 1
       },
       {
         "name": "Exit Ticket",
         "url": "https://www.10storylearning.com/s/Dear-Diego-Session-2.pdf",
-        "membership": 0
+        "membership": 0,
+        "scissors": 1
       },
       {
         "name": "Full Size Map (11 x 17)",
@@ -580,17 +585,21 @@ window.prismPetsupply = [
       {
         "name": "Parking Lot Grid",
         "url": "",
-        "membership": 0
+        "membership": 0,
+        "scissors": 1,
+        "tape": 1
       },
       {
         "name": "Car Sheet",
         "url": "https://www.10storylearning.com/s/prism1-4-car-template.pdf",
-        "membership": 0
+        "membership": 0,
+        "scissors": 1
       },
       {
         "name": "Exit Ticket",
         "url": "https://www.10storylearning.com/s/Dear-Diego-Session-4.pdf",
-        "membership": 0
+        "membership": 0,
+        "scissors": 1
       },
       {
         "name": "Loading Dock",
@@ -888,7 +897,9 @@ window.prismPetsupply = [
       {
         "name": "Tic Tac Tables Board",
         "url": "",
-        "membership": 0
+        "membership": 0,
+        "scissors": 1,
+        "tape": 1
       },
       {
         "name": "Display Tables Sheet",
@@ -903,7 +914,8 @@ window.prismPetsupply = [
       {
         "name": "Exit Ticket",
         "url": "https://www.10storylearning.com/s/Dear-Diego-Session-6.pdf",
-        "membership": 0
+        "membership": 0,
+        "scissors": 1
       },
       {
         "name": "Full Size Tic Tac Tables Board (18 x 24)",
@@ -1197,7 +1209,8 @@ window.prismPetsupply = [
       {
         "name": "Exit Ticket",
         "url": "https://www.10storylearning.com/s/Dear-Diego-Session-8.pdf",
-        "membership": 0
+        "membership": 0,
+        "scissors": 1
       },
       {
         "name": "Bonus Activity: Crate",
@@ -1313,7 +1326,8 @@ window.prismPetsupply = [
       {
         "name": "Exit Ticket",
         "url": "https://www.10storylearning.com/s/Dear-Diego-Session-9.pdf",
-        "membership": 0
+        "membership": 0,
+        "scissors": 1
       }
     ],
     "primaryPdf": {
@@ -1422,7 +1436,8 @@ window.prismPetsupply = [
       {
         "name": "Clue Document Set",
         "url": "https://www.10storylearning.com/s/prism1-10-all-clues-s6r4.pdf",
-        "membership": 0
+        "membership": 0,
+        "scissors": 1
       },
       {
         "name": "Clue Document Answer Key",
@@ -1442,12 +1457,14 @@ window.prismPetsupply = [
       {
         "name": "Exit Ticket",
         "url": "https://www.10storylearning.com/s/Dear-Diego-Session-10.pdf",
-        "membership": 0
+        "membership": 0,
+        "scissors": 1
       },
       {
         "name": "Adoption Certificate",
         "url": "https://www.10storylearning.com/s/PRISM-Pet-Adoption-Certificate-2.pdf",
-        "membership": 0
+        "membership": 0,
+        "scissors": 1
       }
     ],
     "primaryPdf": {
