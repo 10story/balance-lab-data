@@ -2,28 +2,115 @@ window.prismPetsupply = [
   {
     "lesson": 1,
     "lessonName": "Make a Blueprint",
+    "prints": 1,
+    "materials": 1,
     "controls": [
       {
-        "type": "slides",
+        "type": "Slides",
         "name": "SLIDES: Make a Blueprint"
       },
       {
-        "type": "Message from Diego",
-        "name": "Message from Diego"
-      },
-      {
-        "type": "timer",
+        "type": "Timer",
         "name": "Timer"
       }
     ],
     "videos": [
       {
-        "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=6rdu35rism"
+        "name": "Setup",
+        "wistiaId": "6rdu35rism"
+      }
+    ],
+    "pdfSections": [
+      {
+        "heading": "Materials",
+        "strong": false,
+        "membership": null,
+        "url": null,
+        "items": [
+          {
+            "name": "All Free Printables",
+            "url": "",
+            "membership": 0
+          },
+          {
+            "name": "PRISM Grid",
+            "url": "https://www.10storylearning.com/s/prism1-1-building-grid.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Name Cards",
+            "url": "https://www.10storylearning.com/s/prism1-1-name-card-up.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Blueprint (tiled)",
+            "url": "https://www.10storylearning.com/s/PPS1-Blueprintposter-3.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Blueprint (11x17)",
+            "url": "https://www.10storylearning.com/s/PPS1-Blueprintposter-3.pdf",
+            "membership": 1
+          },
+          {
+            "name": "Bonus Blueprint Activity",
+            "url": "https://www.10storylearning.com/s/Session-1-Bonus.pdf",
+            "membership": 1
+          },
+          {
+            "name": "Exit Ticket",
+            "url": "https://www.10storylearning.com/s/Dear-Diego-Session-1.pdf",
+            "membership": 0
+          }
+        ]
       },
       {
-        "name": "Diego video",
-        "wistiaId": "wvideo=57ib0j6uin"
+        "heading": "GRIDS",
+        "strong": false,
+        "membership": null,
+        "url": null,
+        "items": [
+          {
+            "name": "All 7 Departments",
+            "url": "",
+            "membership": 0
+          },
+          {
+            "name": "Reptiles",
+            "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-REPTILES.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Birds",
+            "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-BIRDS.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Dogs",
+            "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-DOGS.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Fish",
+            "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-FISH.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Cats",
+            "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-CATS.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Rabbits",
+            "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-RABBITS.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Spiders & Insects",
+            "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-INSECTS-no-header.pdf",
+            "membership": 0
+          }
+        ]
       }
     ],
     "slides": [
@@ -34,7 +121,7 @@ window.prismPetsupply = [
       {
         "slide": 2,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/41c897b0-873d-47fd-b604-7c56d6946af9/PGO-S1-WELCOME-1-video.png?format=1000w",
-        "opensVideoId": "wvideo=57ib0j6uin"
+        "videoId": "57ib0j6uin"
       },
       {
         "slide": 3,
@@ -112,87 +199,85 @@ window.prismPetsupply = [
         "slide": 21,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/4f64a86e-9dde-47e7-aab6-cbc02ff452c6/PGO-S1-STAFFMTG-4.png?format=2500w"
       }
-    ],
-    "pdfs": [
-      {
-        "name": "Exit Ticket",
-        "url": "https://www.10storylearning.com/s/Dear-Diego-Session-1.pdf"
-      },
-      {
-        "name": "Blueprint Activity",
-        "url": "https://www.10storylearning.com/s/Session-1-Bonus.pdf"
-      },
-      {
-        "name": "PRISM Grid",
-        "url": "https://www.10storylearning.com/s/prism1-1-building-grid.pdf"
-      },
-      {
-        "name": "Name Cards",
-        "url": "https://www.10storylearning.com/s/prism1-1-name-card-up.pdf"
-      },
-      {
-        "name": "Tarjetas de Nombre",
-        "url": "https://www.10storylearning.com/s/prism1-1-name-card-up-2-spanish.pdf"
-      },
-      {
-        "name": "Store Blueprint",
-        "url": "https://www.10storylearning.com/s/PPS1-Blueprintposter-3.pdf"
-      },
-      {
-        "name": "Reptiles Grid",
-        "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-REPTILES.pdf"
-      },
-      {
-        "name": "Birds Grid",
-        "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-BIRDS.pdf"
-      },
-      {
-        "name": "Dogs Grid",
-        "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-DOGS.pdf"
-      },
-      {
-        "name": "Fish Grid",
-        "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-FISH.pdf"
-      },
-      {
-        "name": "Cats Grid",
-        "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-CATS.pdf"
-      },
-      {
-        "name": "Rabbits Grid",
-        "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-RABBITS.pdf"
-      },
-      {
-        "name": "Spiders & Insects Grid",
-        "url": "https://www.10storylearning.com/s/prism1-1-building-grid-half-INSECTS-no-header.pdf"
-      }
     ]
   },
   {
     "lesson": 2,
     "lessonName": "Choose a Location",
+    "prints": 1,
+    "materials": 1,
     "controls": [
       {
-        "type": "slides",
+        "type": "Slides",
         "name": "SLIDES: Choose a Location"
       },
       {
-        "type": "Message from Diego",
-        "name": "Message from Diego"
-      },
-      {
-        "type": "timer",
+        "type": "Timer",
         "name": "Timer"
       }
     ],
     "videos": [
       {
-        "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=kc8x7uchvq"
+        "name": "Measuring in PRISM Units",
+        "wistiaId": "lf7w7ok0av"
       },
       {
-        "name": "Diego video",
-        "wistiaId": "wvideo=mt2eyf7n3r"
+        "name": "Creating a Bar Graph",
+        "wistiaId": "l80z2xp0ja"
+      },
+      {
+        "name": "Setup",
+        "wistiaId": "kc8x7uchvq"
+      }
+    ],
+    "pdfSections": [
+      {
+        "heading": "Materials",
+        "strong": false,
+        "membership": null,
+        "url": null,
+        "items": [
+          {
+            "name": "All Free Printables",
+            "url": "https://www.10storylearning.com/s/prism1-2-map-howie-up5.pdf",
+            "membership": 0
+          },
+          {
+            "name": "PRISM Ruler",
+            "url": "",
+            "membership": 0
+          },
+          {
+            "name": "Map (tiled)",
+            "url": "https://www.10storylearning.com/s/prism1-2-map-howie-up5.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Map (11 x 17)",
+            "url": "https://www.10storylearning.com/s/prism1-2-map-howie-up5.pdf",
+            "membership": 1
+          },
+          {
+            "name": "Bar Graph",
+            "url": "https://www.10storylearning.com/s/prism1-2-building-graphs-up4.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Ballots",
+            "url": "https://www.10storylearning.com/s/building-voting-ballot.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Exit Ticket",
+            "url": "https://www.10storylearning.com/s/Dear-Diego-Session-2.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Map Challenges",
+            "url": "https://www.10storylearning.com/s/Session-2-Bonus-lpx2.pdf",
+            "membership": 1
+          }
+        ]
       }
     ],
     "slides": [
@@ -203,7 +288,7 @@ window.prismPetsupply = [
       {
         "slide": 2,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/39f72d5d-605f-460e-88a3-569ca8f1a65a/PGO-S2-WELCOME-1-video-2.png?format=1000w",
-        "opensVideoId": "mt2eyf7n3r"
+        "videoId": "mt2eyf7n3r"
       },
       {
         "slide": 3,
@@ -240,7 +325,7 @@ window.prismPetsupply = [
       {
         "slide": 11,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/6b30d77a-db41-4c20-89bc-e82986545248/PGO-S2-WELCOME-1-mini.png?format=1000w",
-        "opensVideoId": "lf7w7ok0av"
+        "videoId": "lf7w7ok0av"
       },
       {
         "slide": 12,
@@ -261,7 +346,7 @@ window.prismPetsupply = [
       {
         "slide": 16,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/2e2598c1-eae3-4288-a8f7-cc0976336eeb/PGO-S2-WELCOME-1-mini+2.png?format=1000w",
-        "opensVideoId": "l80z2xp0ja"
+        "videoId": "l80z2xp0ja"
       },
       {
         "slide": 17,
@@ -294,64 +379,104 @@ window.prismPetsupply = [
       {
         "slide": 24,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/2c12d07a-ded1-49f3-b887-86ee51d7a762/PGO-S2-STAFFMTG-7.png?format=2500w"
-      },
-      {
-        "slide": 25,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/4cf9e893-9e8e-481d-ae8c-ec2be28cf367/PGO-S2-STAFFMTG-8new.png?format=2500w"
-      }
-    ],
-    "pdfs": [
-      {
-        "name": "Bar Graph",
-        "url": "https://www.10storylearning.com/s/prism1-2-building-graphs-up4.pdf"
-      },
-      {
-        "name": "Ballots",
-        "url": "https://www.10storylearning.com/s/building-voting-ballot.pdf"
-      },
-      {
-        "name": "Exit Ticket",
-        "url": "https://www.10storylearning.com/s/Dear-Diego-Session-2.pdf"
-      },
-      {
-        "name": "Map (11 x 17)",
-        "url": "https://www.10storylearning.com/s/prism1-2-map-howie-up5.pdf"
-      },
-      {
-        "name": "Extra Map Activity",
-        "url": "https://www.10storylearning.com/s/Session-2-Bonus-lpx2.pdf"
       }
     ]
   },
   {
     "lesson": 3,
     "lessonName": "Pet Play Zones",
+    "prints": 1,
+    "materials": 1,
     "controls": [
       {
-        "type": "slides",
+        "type": "Slides",
         "name": "SLIDES: Pet Play Zones"
       },
       {
-        "type": "Message from Diego",
-        "name": "Message from Diego"
-      },
-      {
-        "type": "timer",
+        "type": "Timer",
         "name": "Timer"
       }
     ],
     "videos": [
       {
-        "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=pwq87dn0go"
-      },
-      {
-        "name": "Diego video",
-        "wistiaId": "wvideo=bxqk5jqihu"
-      },
-      {
-        "name": "Mini-Lesson: Area",
+        "name": "Measuring Area by Counting Tiles",
         "wistiaId": "j28296atux"
+      },
+      {
+        "name": "Using Area to Calculate Cost",
+        "wistiaId": "fhcftsrzge"
+      },
+      {
+        "name": "Setup",
+        "wistiaId": "pwq87dn0go"
+      }
+    ],
+    "pdfSections": [
+      {
+        "heading": "Materials",
+        "strong": false,
+        "membership": null,
+        "url": null,
+        "items": [
+          {
+            "name": "All Free Printables",
+            "url": "https://www.10storylearning.com/s/Dear-Diego-Session-3.pdf",
+            "membership": 0
+          }
+        ]
+      },
+      {
+        "heading": "PLAY ZONES",
+        "strong": false,
+        "membership": null,
+        "url": null,
+        "items": [
+          {
+            "name": "Fish",
+            "url": "https://www.10storylearning.com/s/prism1-3-pet-play-fish-fountain.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Cats",
+            "url": "https://www.10storylearning.com/s/prism1-3-pet-play-cat-run.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Reptiles",
+            "url": "https://www.10storylearning.com/s/prism1-3-pet-play-reptile-retreat.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Rabbits & Rodents",
+            "url": "https://www.10storylearning.com/s/prism1-3-pet-play-brabbit-run-y2gj.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Birds Play Zone",
+            "url": "https://www.10storylearning.com/s/prism1-3-pet-play-bird-paradise.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Spiders & Insects",
+            "url": "https://www.10storylearning.com/s/prism1-3-pet-play-butterfly-garden.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Dogs",
+            "url": "https://www.10storylearning.com/s/prism1-3-pet-play-puppy-playground.pdf",
+            "membership": 0
+          },
+          {
+            "name": "People",
+            "url": "",
+            "membership": 1
+          },
+          {
+            "name": "Exit Ticket",
+            "url": "https://www.10storylearning.com/s/Dear-Diego-Session-3.pdf",
+            "membership": 0
+          }
+        ]
       }
     ],
     "slides": [
@@ -362,7 +487,7 @@ window.prismPetsupply = [
       {
         "slide": 2,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/961d6434-e85c-4f8d-9239-d0e78f8e03f2/PGO-S3-WELCOME-1-video-2.png?format=1000w",
-        "opensVideoId": "bxqk5jqihu"
+        "videoId": "bxqk5jqihu"
       },
       {
         "slide": 3,
@@ -391,7 +516,7 @@ window.prismPetsupply = [
       {
         "slide": 9,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/ce988b34-a070-4705-b10c-499cb4d8875b/PGO-S3-WELCOME-1-mini.png?format=1000w",
-        "opensVideoId": "j28296atux"
+        "videoId": "j28296atux"
       },
       {
         "slide": 10,
@@ -412,7 +537,7 @@ window.prismPetsupply = [
       {
         "slide": 14,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/4381490c-9306-4e32-9f96-9be1ec08b723/PGO-S3-WELCOME-1-mini+2.png?format=1000w",
-        "opensVideoId": "fhcftsrzge"
+        "videoId": "fhcftsrzge"
       },
       {
         "slide": 15,
@@ -454,57 +579,17 @@ window.prismPetsupply = [
         "slide": 24,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/7a9b24a1-5618-476f-8447-701a593e3a36/PGO-S3-PLAYZONE-13new.png?format=2500w"
       }
-    ],
-    "pdfs": [
-      {
-        "name": "Exit Ticket",
-        "url": "https://www.10storylearning.com/s/Dear-Diego-Session-3.pdf"
-      },
-      {
-        "name": "Bonus: People Play Zone",
-        "url": "https://www.10storylearning.com/s/Session-3-Bonus.pdf"
-      },
-      {
-        "name": "Fish Play Zone (11x17)",
-        "url": "https://www.10storylearning.com/s/prism1-3-pet-play-fish-fountain.pdf"
-      },
-      {
-        "name": "Cats Play Zone (11x17)",
-        "url": "https://www.10storylearning.com/s/prism1-3-pet-play-cat-run.pdf"
-      },
-      {
-        "name": "Reptiles Play Zone (11x17)",
-        "url": "https://www.10storylearning.com/s/prism1-3-pet-play-reptile-retreat.pdf"
-      },
-      {
-        "name": "Rabbits & Rodents Play Zone (11x17)",
-        "url": "https://www.10storylearning.com/s/prism1-3-pet-play-brabbit-run-y2gj.pdf"
-      },
-      {
-        "name": "Birds Play Zone (11x17)",
-        "url": "https://www.10storylearning.com/s/prism1-3-pet-play-bird-paradise.pdf"
-      },
-      {
-        "name": "Spiders & Insects Play Zone (11x17)",
-        "url": "https://www.10storylearning.com/s/prism1-3-pet-play-butterfly-garden.pdf"
-      },
-      {
-        "name": "Dogs Play Zone (11x17)",
-        "url": "https://www.10storylearning.com/s/prism1-3-pet-play-puppy-playground.pdf"
-      }
     ]
   },
   {
     "lesson": 4,
     "lessonName": "Design a Parking Lot",
+    "prints": 1,
+    "materials": 1,
     "controls": [
       {
-        "type": "slides",
+        "type": "Slides",
         "name": "SLIDES: Design a Parking Lot"
-      },
-      {
-        "type": "Message from Diego",
-        "name": "Message from Diego"
       },
       {
         "type": "timer",
@@ -513,12 +598,56 @@ window.prismPetsupply = [
     ],
     "videos": [
       {
-        "name": "Teacher's Guide",
-        "wistiaId": "wvideo=2y5gkw7psq"
+        "name": "Calculating Perimeter",
+        "wistiaId": "drgt3cswz4"
       },
       {
-        "name": "Diego video",
-        "wistiaId": "wvideo=vwi5ehic4f"
+        "name": "Designing a Parking Lot",
+        "wistiaId": "sb94of3b7z"
+      },
+      {
+        "name": "Setup",
+        "wistiaId": "2y5gkw7psq"
+      }
+    ],
+    "pdfSections": [
+      {
+        "heading": "Materials",
+        "strong": false,
+        "membership": null,
+        "url": null,
+        "items": [
+          {
+            "name": "All Free Printables",
+            "url": "https://www.10storylearning.com/s/prism1-4-car-template.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Car Sheet",
+            "url": "https://www.10storylearning.com/s/prism1-4-car-template.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Parking Lot Grid (11x17)",
+            "url": "https://www.10storylearning.com/s/prism1-4-parking-grid-compressed-2.pdf",
+            "membership": 1
+          },
+          {
+            "name": "Loading Dock",
+            "url": "https://www.10storylearning.com/s/Session-4-Bonus.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Loading Dock Grid",
+            "url": "https://www.10storylearning.com/s/Session-4-Bonus.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Exit Ticket",
+            "url": "https://www.10storylearning.com/s/Dear-Diego-Session-4.pdf",
+            "membership": 0
+          }
+        ]
       }
     ],
     "slides": [
@@ -529,7 +658,7 @@ window.prismPetsupply = [
       {
         "slide": 2,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/e035942a-0d0c-40a1-9c4e-bdd6ecff2485/PGO-S4-WELCOME-1-video-2.png?format=1000w",
-        "opensVideoId": "vwi5ehic4f"
+        "videoId": "vwi5ehic4f"
       },
       {
         "slide": 3,
@@ -570,7 +699,7 @@ window.prismPetsupply = [
       {
         "slide": 12,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/9a43c5d9-7c35-40e6-b91e-0f09bb0b62f4/PGO-S4-WELCOME-1-mini.png?format=1000w",
-        "opensVideoId": "drgt3cswz4"
+        "videoId": "drgt3cswz4"
       },
       {
         "slide": 13,
@@ -603,7 +732,7 @@ window.prismPetsupply = [
       {
         "slide": 20,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/062825b8-afe9-4044-83b6-f4af304ebc14/PGO-S4-WELCOME-1-mini+2.png?format=1000w",
-        "opensVideoId": "sb94of3b7z"
+        "videoId": "sb94of3b7z"
       },
       {
         "slide": 21,
@@ -629,55 +758,76 @@ window.prismPetsupply = [
         "slide": 26,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/e9e28f46-2c33-4680-8630-b355cc8553bb/PGO-S4-PARKINGLOT-14new.png?format=2500w"
       }
-    ],
-    "pdfs": [
-      {
-        "name": "Car Sheet",
-        "url": "https://www.10storylearning.com/s/prism1-4-car-template.pdf"
-      },
-      {
-        "name": "Exit Ticket",
-        "url": "https://www.10storylearning.com/s/Dear-Diego-Session-4.pdf"
-      },
-      {
-        "name": "Parking Lot Grid (11x17)",
-        "url": "https://www.10storylearning.com/s/prism1-4-parking-grid-compressed-2.pdf"
-      },
-      {
-        "name": "Loading Dock",
-        "url": "https://www.10storylearning.com/s/Session-4-Bonus.pdf"
-      },
-      {
-        "name": "Loading Dock Grid",
-        "url": "https://www.10storylearning.com/s/Session-4-Bonus.pdf"
-      }
     ]
   },
   {
     "lesson": 5,
     "lessonName": "Order Pet Food",
+    "prints": 1,
+    "materials": 1,
     "controls": [
       {
-        "type": "slides",
+        "type": "Slides",
         "name": "SLIDES: Order Pet Food"
       },
       {
-        "type": "Message from Diego",
-        "name": "Message from Diego"
-      },
-      {
-        "type": "timer",
+        "type": "Timer",
         "name": "Timer"
       }
     ],
     "videos": [
       {
-        "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=urwrmbhlt8"
+        "name": "Calculating Area by Multiplying Side Lengths",
+        "wistiaId": "lghfjvdnb8"
       },
       {
-        "name": "Diego video",
-        "wistiaId": "wvideo=nqawjbgxfe"
+        "name": "Setup",
+        "wistiaId": "urwrmbhlt8"
+      }
+    ],
+    "pdfSections": [
+      {
+        "heading": "Materials",
+        "strong": false,
+        "membership": null,
+        "url": null,
+        "items": [
+          {
+            "name": "All Free Printables",
+            "url": "",
+            "membership": 0
+          },
+          {
+            "name": "Box Bottoms",
+            "url": "https://www.10storylearning.com/s/PRISM-box-bottoms-14-sheets.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Bonus: Product A",
+            "url": "https://www.10storylearning.com/s/Session-5-Bonus.pdf",
+            "membership": 1
+          },
+          {
+            "name": "Bonus: Product B",
+            "url": "https://www.10storylearning.com/s/Session-5-Bonusb.pdf",
+            "membership": 1
+          },
+          {
+            "name": "Bonus: Product C",
+            "url": "https://www.10storylearning.com/s/Session-5-Bonusc.pdf",
+            "membership": 1
+          },
+          {
+            "name": "Bonus: Product D",
+            "url": "https://www.10storylearning.com/s/Session-5-Bonusd.pdf",
+            "membership": 1
+          },
+          {
+            "name": "Exit Ticket",
+            "url": "https://www.10storylearning.com/s/Dear-Diego-Session-5.pdf",
+            "membership": 0
+          }
+        ]
       }
     ],
     "slides": [
@@ -688,7 +838,7 @@ window.prismPetsupply = [
       {
         "slide": 2,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/a26dc9b7-e1eb-44f4-9d68-2b537b752c32/PGO-S5-WELCOME-1-video-2.png?format=1000w",
-        "opensVideoId": "nqawjbgxfe"
+        "videoId": "nqawjbgxfe"
       },
       {
         "slide": 3,
@@ -733,7 +883,7 @@ window.prismPetsupply = [
       {
         "slide": 13,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/08ea64e0-e17f-4059-be56-ec9882848828/PGO-S5-WELCOME-1-mini.png?format=1000w",
-        "opensVideoId": "lghfjvdnb8"
+        "videoId": "lghfjvdnb8"
       },
       {
         "slide": 14,
@@ -763,45 +913,17 @@ window.prismPetsupply = [
         "slide": 20,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/0a684afc-cce8-49b2-aa39-a3594961fceb/PGO-S5-STAFFMTG-2.png?format=2500w"
       }
-    ],
-    "pdfs": [
-      {
-        "name": "Box Bottoms",
-        "url": "https://www.10storylearning.com/s/PRISM-box-bottoms-14-sheets.pdf"
-      },
-      {
-        "name": "Exit Ticket",
-        "url": "https://www.10storylearning.com/s/Dear-Diego-Session-5.pdf"
-      },
-      {
-        "name": "Bonus Activity (Product A)",
-        "url": "https://www.10storylearning.com/s/Session-5-Bonus.pdf"
-      },
-      {
-        "name": "Bonus Activity (Product B)",
-        "url": "https://www.10storylearning.com/s/Session-5-Bonusb.pdf"
-      },
-      {
-        "name": "Bonus Activity (Product C)",
-        "url": "https://www.10storylearning.com/s/Session-5-Bonusc.pdf"
-      },
-      {
-        "name": "Bonus Activity (Product D)",
-        "url": "https://www.10storylearning.com/s/Session-5-Bonusd.pdf"
-      }
     ]
   },
   {
     "lesson": 6,
     "lessonName": "Table Displays",
+    "prints": 1,
+    "materials": 1,
     "controls": [
       {
         "type": "slides",
         "name": "SLIDES: Table Displays"
-      },
-      {
-        "type": "Message from Diego",
-        "name": "Message from Diego"
       },
       {
         "type": "timer",
@@ -810,20 +932,56 @@ window.prismPetsupply = [
     ],
     "videos": [
       {
-        "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=esj2sd7fit"
-      },
-      {
-        "name": "Diego video",
-        "wistiaId": "wvideo=bnhij52oqc"
-      },
-      {
-        "name": "Mini-Lesson: Arrays",
+        "name": "Arrays",
         "wistiaId": "iu1n6isijy"
       },
       {
-        "name": "How to Play Animal Questions",
+        "name": "How to Play Tic Tac Tables",
         "wistiaId": "gqzfgfi1nu"
+      },
+      {
+        "name": "Setup",
+        "wistiaId": "esj2sd7fit"
+      }
+    ],
+    "pdfSections": [
+      {
+        "heading": "Materials",
+        "strong": false,
+        "membership": null,
+        "url": null,
+        "items": [
+          {
+            "name": "All Free Printables",
+            "url": "",
+            "membership": 0
+          },
+          {
+            "name": "Tic Tac Tables Board (tiled)",
+            "url": "",
+            "membership": 0
+          },
+          {
+            "name": "Tic Tac Tables Board (18x24)",
+            "url": "https://www.10storylearning.com/s/Tic-Tic-Tables-V10-smaller.pdf",
+            "membership": 1
+          },
+          {
+            "name": "Display Tables Sheet",
+            "url": "https://www.10storylearning.com/s/prism1-6-arrys-recording-v2.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Animal Questions Booklet",
+            "url": "https://www.10storylearning.com/s/Question-Booklet-English.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Exit Ticket",
+            "url": "https://www.10storylearning.com/s/Dear-Diego-Session-6.pdf",
+            "membership": 0
+          }
+        ]
       }
     ],
     "slides": [
@@ -834,7 +992,7 @@ window.prismPetsupply = [
       {
         "slide": 2,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/9e56afcd-0507-4ceb-9525-6a2b80e76b6a/PGO-S6-WELCOME-1-video-2.png?format=1000w",
-        "opensVideoId": "bnhij52oqc"
+        "videoId": "bnhij52oqc"
       },
       {
         "slide": 3,
@@ -891,7 +1049,7 @@ window.prismPetsupply = [
       {
         "slide": 16,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/9fa65c39-6eb4-4cfc-bdbe-c2e8723b8f3c/PGO-S6-WELCOME-1-mini+1.png?format=1000w",
-        "opensVideoId": "iu1n6isijy"
+        "videoId": "iu1n6isijy"
       },
       {
         "slide": 17,
@@ -912,7 +1070,7 @@ window.prismPetsupply = [
       {
         "slide": 21,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/dc6f1111-be58-4ede-9863-286a6bbf58f3/PGO-S6-WELCOME-1-mini+2.png?format=1000w",
-        "opensVideoId": "gqzfgfi1nu"
+        "videoId": "gqzfgfi1nu"
       },
       {
         "slide": 22,
@@ -934,37 +1092,21 @@ window.prismPetsupply = [
         "slide": 26,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/565c3be6-f4c9-4462-9b40-637a2a14350e/PGO-S6-TRAINING-11new.png?format=2500w"
       }
-    ],
-    "pdfs": [
-      {
-        "name": "Display Tables Sheet",
-        "url": "https://www.10storylearning.com/s/prism1-6-arrys-recording-v2.pdf"
-      },
-      {
-        "name": "Exit Ticket",
-        "url": "https://www.10storylearning.com/s/Dear-Diego-Session-6.pdf"
-      },
-      {
-        "name": "Tic Tac Tables Board (18x24)",
-        "url": "https://www.10storylearning.com/s/Tic-Tic-Tables-V10-smaller.pdf"
-      },
-      {
-        "name": "Animal Questions Booklet",
-        "url": "https://www.10storylearning.com/s/Question-Booklet-English.pdf"
-      }
     ]
   },
   {
     "lesson": 7,
     "lessonName": "Fish Castles",
+    "prints": 1,
+    "materials": 1,
     "controls": [
       {
         "type": "slides",
         "name": "SLIDES: Fish Castles"
       },
       {
-        "type": "Message from Diego",
-        "name": "Message from Diego"
+        "type": "Tips",
+        "name": "Teaching Tips"
       },
       {
         "type": "timer",
@@ -973,16 +1115,42 @@ window.prismPetsupply = [
     ],
     "videos": [
       {
-        "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=z6brncp6cm"
-      },
-      {
-        "name": "Diego video",
-        "wistiaId": "wvideo=lvf6pgftsr"
-      },
-      {
-        "name": "Mini-Lesson: Counting Money",
+        "name": "Counting Money",
         "wistiaId": "nnbhhielbx"
+      },
+      {
+        "name": "Setup",
+        "wistiaId": "z6brncp6cm"
+      }
+    ],
+    "pdfSections": [
+      {
+        "heading": "Materials",
+        "strong": false,
+        "membership": null,
+        "url": null,
+        "items": [
+          {
+            "name": "All Free Printables",
+            "url": ".",
+            "membership": 0
+          },
+          {
+            "name": "Fish Castle Materials",
+            "url": "https://www.10storylearning.com/s/prism1-7-fish-castle-materials.pdf",
+            "membership": 0
+          },
+          {
+            "name": "PRISM Money Sheet",
+            "url": "https://www.10storylearning.com/s/prism1-6-prsim-dollars.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Bonus: An Extra Product",
+            "url": "https://www.10storylearning.com/s/Session-7-Bonus.pdf",
+            "membership": 1
+          }
+        ]
       }
     ],
     "slides": [
@@ -993,7 +1161,7 @@ window.prismPetsupply = [
       {
         "slide": 2,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/7c2c203b-57e1-47fe-b459-3dc9fcd766c1/PGO-7-WELCOME-1-video-2.png?format=1000w",
-        "opensVideoId": "lvf6pgftsr"
+        "videoId": "lvf6pgftsr"
       },
       {
         "slide": 3,
@@ -1034,7 +1202,7 @@ window.prismPetsupply = [
       {
         "slide": 12,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/69ab0513-df91-4be8-835e-e5dbbd7b37d5/PGO-7-WELCOME-1-mini.png?format=1000w",
-        "opensVideoId": "nnbhhielbx"
+        "videoId": "nnbhhielbx"
       },
       {
         "slide": 13,
@@ -1064,33 +1232,17 @@ window.prismPetsupply = [
         "slide": 19,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/7c4b88ae-282b-4293-b39f-e9dc1be8e342/PGO-7-CASTLES-15new.png?format=2500w"
       }
-    ],
-    "pdfs": [
-      {
-        "name": "Fish Castle Materials Sheet",
-        "url": "https://www.10storylearning.com/s/prism1-7-fish-castle-materials.pdf"
-      },
-      {
-        "name": "PRISM Money Sheet",
-        "url": "https://www.10storylearning.com/s/prism1-6-prsim-dollars.pdf"
-      },
-      {
-        "name": "Bonus: An Extra Product",
-        "url": "https://www.10storylearning.com/s/Session-7-Bonus.pdf"
-      }
     ]
   },
   {
     "lesson": 8,
     "lessonName": "Signs",
+    "prints": 1,
+    "materials": 1,
     "controls": [
       {
         "type": "slides",
         "name": "SLIDES: Signs"
-      },
-      {
-        "type": "Message from Diego",
-        "name": "Message from Diego"
       },
       {
         "type": "timer",
@@ -1099,16 +1251,47 @@ window.prismPetsupply = [
     ],
     "videos": [
       {
-        "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=d6s4ql6bpd"
-      },
-      {
-        "name": "Diego video",
-        "wistiaId": "wvideo=87dbyqou8z"
-      },
-      {
-        "name": "Mini-Lesson: Length & Width",
+        "name": "Length & Width",
         "wistiaId": "c1imjbnbfu"
+      },
+      {
+        "name": "Setup",
+        "wistiaId": "d6s4ql6bpd"
+      }
+    ],
+    "pdfSections": [
+      {
+        "heading": "Materials",
+        "strong": false,
+        "membership": null,
+        "url": null,
+        "items": [
+          {
+            "name": "All Free Printables",
+            "url": "https://www.10storylearning.com/s/PGO-8-SIGNINSTRUCTIONS-2.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Sign Instructions",
+            "url": "https://www.10storylearning.com/s/PGO-8-SIGNINSTRUCTIONS-2.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Sign Shapes street",
+            "url": "https://www.10storylearning.com/s/PGO-8-SIGNSHAPES.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Exit Ticket",
+            "url": "https://www.10storylearning.com/s/Dear-Diego-Session-8.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Bonus Activity: Crate",
+            "url": "https://www.10storylearning.com/s/Session-8-Bonus.pdf",
+            "membership": 1
+          }
+        ]
       }
     ],
     "slides": [
@@ -1119,7 +1302,7 @@ window.prismPetsupply = [
       {
         "slide": 2,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/93c0e9ba-e97a-4478-b227-46923f7bed25/PGO-8-WELCOME-1-video-2.png?format=1000w",
-        "opensVideoId": "87dbyqou8z"
+        "videoId": "87dbyqou8z"
       },
       {
         "slide": 3,
@@ -1148,7 +1331,7 @@ window.prismPetsupply = [
       {
         "slide": 9,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/b6524d48-cfed-4ebb-a9a3-e55dbc66754e/PGO-8-WELCOME-1-mini-length-width.png?format=1000w",
-        "opensVideoId": "c1imjbnbfu"
+        "videoId": "c1imjbnbfu"
       },
       {
         "slide": 10,
@@ -1182,37 +1365,17 @@ window.prismPetsupply = [
         "slide": 17,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/3968721a-20e4-4055-be14-3b51a3d44c76/PGO-8-STAFFMTG-2.png?format=2500w"
       }
-    ],
-    "pdfs": [
-      {
-        "name": "Sign Instructions",
-        "url": "https://www.10storylearning.com/s/PGO-8-SIGNINSTRUCTIONS-2.pdf"
-      },
-      {
-        "name": "Sign Shapes street",
-        "url": "https://www.10storylearning.com/s/PGO-8-SIGNSHAPES.pdf"
-      },
-      {
-        "name": "Exit Ticket",
-        "url": "https://www.10storylearning.com/s/Dear-Diego-Session-8.pdf"
-      },
-      {
-        "name": "Bonus Activity: Crate",
-        "url": "https://www.10storylearning.com/s/Session-8-Bonus.pdf"
-      }
     ]
   },
   {
     "lesson": 9,
     "lessonName": "The Commercial",
+    "prints": 1,
+    "materials": 1,
     "controls": [
       {
         "type": "slides",
         "name": "SLIDES: The Commercial"
-      },
-      {
-        "type": "Message from Diego",
-        "name": "Message from Diego"
       },
       {
         "type": "timer",
@@ -1221,12 +1384,33 @@ window.prismPetsupply = [
     ],
     "videos": [
       {
-        "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=ve9or8y4tj"
-      },
+        "name": "Setup",
+        "wistiaId": "ve9or8y4tj"
+      }
+    ],
+    "pdfSections": [
       {
-        "name": "Diego video",
-        "wistiaId": "wvideo=ho7waf69q1"
+        "heading": "Materials",
+        "strong": false,
+        "membership": null,
+        "url": null,
+        "items": [
+          {
+            "name": "All Free Printables",
+            "url": "https://www.10storylearning.com/s/PGO-9-COMMERCIALSCRIPT.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Commercial Script",
+            "url": "https://www.10storylearning.com/s/PGO-9-COMMERCIALSCRIPT.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Exit Ticket",
+            "url": "https://www.10storylearning.com/s/Dear-Diego-Session-9.pdf",
+            "membership": 0
+          }
+        ]
       }
     ],
     "slides": [
@@ -1236,101 +1420,139 @@ window.prismPetsupply = [
       },
       {
         "slide": 2,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/04f26f79-25f0-47e6-a33b-67087e9861a7/PGO-9-COMMERCIAL-2anew.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/3766ee03-cdc5-4c83-ab25-4559f0c24535/PGO-9-WELCOME-1-video-2.png?format=1000w",
+        "videoId": "ho7waf69q1"
       },
       {
         "slide": 3,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/2a13f61b-9c02-4ef8-b534-4f498dd69f0d/PGO-9-WELCOME-2.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/04f26f79-25f0-47e6-a33b-67087e9861a7/PGO-9-COMMERCIAL-2anew.png?format=2500w"
       },
       {
         "slide": 4,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/a51964a4-3681-435e-87a9-eeefa60e162c/PGO-9-WELCOME-4.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/2a13f61b-9c02-4ef8-b534-4f498dd69f0d/PGO-9-WELCOME-2.png?format=2500w"
       },
       {
         "slide": 5,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/749396b2-7699-49d2-b19a-8f2606c88dda/PGO-9-COMMERCIAL-2.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/a51964a4-3681-435e-87a9-eeefa60e162c/PGO-9-WELCOME-4.png?format=2500w"
       },
       {
         "slide": 6,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/9ab1b92b-8561-4adb-baae-c50f7d477cf6/PGO-9-COMMERCIAL-2.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/749396b2-7699-49d2-b19a-8f2606c88dda/PGO-9-COMMERCIAL-2.png?format=2500w"
       },
       {
         "slide": 7,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/bddddbb2-768d-47ed-90d0-ab5b649d004e/PGO-9-COMMERCIAL-3.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/9ab1b92b-8561-4adb-baae-c50f7d477cf6/PGO-9-COMMERCIAL-2.png?format=2500w"
       },
       {
         "slide": 8,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/4c828d89-6f3a-4975-9267-e85d94df6e31/PGO-9-COMMERCIAL-4.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/bddddbb2-768d-47ed-90d0-ab5b649d004e/PGO-9-COMMERCIAL-3.png?format=2500w"
       },
       {
         "slide": 9,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/acdeea53-8e85-47ed-a31d-de22fb804041/PGO-9-COMMERCIAL-5.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/4c828d89-6f3a-4975-9267-e85d94df6e31/PGO-9-COMMERCIAL-4.png?format=2500w"
       },
       {
         "slide": 10,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/4bc534f9-cda2-4372-b99b-806b3eb3932d/PGO-9-COMMERCIAL-6.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/acdeea53-8e85-47ed-a31d-de22fb804041/PGO-9-COMMERCIAL-5.png?format=2500w"
       },
       {
         "slide": 11,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/8d9d9f4a-49d5-4523-ae79-958c915f26d8/PGO-9-COMMERCIAL-7.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/4bc534f9-cda2-4372-b99b-806b3eb3932d/PGO-9-COMMERCIAL-6.png?format=2500w"
       },
       {
         "slide": 12,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/7c05a514-92a5-4ad7-bf49-ce8241aa58ec/PGO-9-COMMERCIAL-8.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/8d9d9f4a-49d5-4523-ae79-958c915f26d8/PGO-9-COMMERCIAL-7.png?format=2500w"
       },
       {
         "slide": 13,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/2af8e652-2ac4-4e40-9942-8792165033f4/PGO-9-STAFFMTG-1.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/7c05a514-92a5-4ad7-bf49-ce8241aa58ec/PGO-9-COMMERCIAL-8.png?format=2500w"
       },
       {
         "slide": 14,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/7721ecbb-2018-4c85-841d-98ba0eb94e80/PGO-9-STAFFMTG-2.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/2af8e652-2ac4-4e40-9942-8792165033f4/PGO-9-STAFFMTG-1.png?format=2500w"
       },
       {
         "slide": 15,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/15e57554-dfcd-4804-910c-abac1077f083/PGO-9-STAFFMTG-3new.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/7721ecbb-2018-4c85-841d-98ba0eb94e80/PGO-9-STAFFMTG-2.png?format=2500w"
       },
       {
         "slide": 16,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/d408641b-71ac-44b5-8ae2-7f7732f37461/9+-+exit+slide.001.png?format=2500w"
-      }
-    ],
-    "pdfs": [
-      {
-        "name": "Commercial Script",
-        "url": "https://www.10storylearning.com/s/PGO-9-COMMERCIALSCRIPT.pdf"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/15e57554-dfcd-4804-910c-abac1077f083/PGO-9-STAFFMTG-3new.png?format=2500w"
       },
       {
-        "name": "Exit Ticket",
-        "url": "https://www.10storylearning.com/s/Dear-Diego-Session-9.pdf"
+        "slide": 17,
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/d408641b-71ac-44b5-8ae2-7f7732f37461/9+-+exit+slide.001.png?format=2500w"
       }
     ]
   },
   {
     "lesson": 10,
     "lessonName": "Grand Opening",
+    "prints": 1,
+    "materials": 1,
     "controls": [
       {
         "type": "slides",
         "name": "SLIDES: Grand Opening"
       },
       {
-        "type": "Message from Diego",
-        "name": "Message from Diego"
+        "type": "Setup",
+        "name": "Setup"
       },
       {
         "type": "timer",
         "name": "Timer"
       }
     ],
-    "videos": [
+    "videos": [],
+    "pdfSections": [
       {
-        "name": "Teacher's Guide Video",
-        "wistiaId": "wvideo=2mm4xc4abb"
-      },
-      {
-        "name": "Diego video",
-        "wistiaId": "wvideo=z8kbr59tjb"
+        "heading": "Materials",
+        "strong": false,
+        "membership": null,
+        "url": null,
+        "items": [
+          {
+            "name": "All Free Printables",
+            "url": "",
+            "membership": 0
+          },
+          {
+            "name": "Adoption Certificate",
+            "url": "https://www.10storylearning.com/s/PRISM-Pet-Adoption-Certificate-2.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Clue Document Set",
+            "url": "https://www.10storylearning.com/s/prism1-10-all-clues-s6r4.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Clue Document Answer Key",
+            "url": "https://www.10storylearning.com/s/prism1-10-all-clues-answers.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Dog Search Answer Key",
+            "url": "https://www.10storylearning.com/s/Prism-Grand-Opening-Dog-Search-Help-Sheet-b36b.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Practice Sheet Answer Key / Help Sheet",
+            "url": "https://www.algebrastudio.org/s/10-Practice-answers.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Exit Ticket",
+            "url": "https://www.10storylearning.com/s/Dear-Diego-Session-10.pdf",
+            "membership": 0
+          },
+          {
+            "name": "Petville Map",
+            "url": "https://www.10storylearning.com/s/prism1-2-map-howie-up5.pdf",
+            "membership": 0
+          }
+        ]
       }
     ],
     "slides": [
@@ -1341,7 +1563,7 @@ window.prismPetsupply = [
       {
         "slide": 2,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/0c7ea2e5-a0f5-4b43-925e-b1c83484529f/PGO-10-WELCOME-1-video-2.png?format=1000w",
-        "opensVideoId": "z8kbr59tjb"
+        "videoId": "z8kbr59tjb"
       },
       {
         "slide": 3,
@@ -1434,7 +1656,7 @@ window.prismPetsupply = [
       {
         "slide": 25,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/606473f0-9047-4488-aad2-a7c0bc1fae00/PGO-10-WELCOME-1-highlight+1.png?format=1000w",
-        "opensVideoId": "gvu4h430du"
+        "videoId": "gvu4h430du"
       },
       {
         "slide": 26,
@@ -1443,41 +1665,11 @@ window.prismPetsupply = [
       {
         "slide": 27,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/0c7ea2e5-a0f5-4b43-925e-b1c83484529f/PGO-10-WELCOME-1-video-2.png?format=1000w",
-        "opensVideoId": "5xk6dccqhr"
+        "videoId": "5xk6dccqhr"
       },
       {
         "slide": 28,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/04223538-6d3f-4314-90d7-5ce55810e750/PGO-10-STAFFMTG-2.png?format=2500w"
-      }
-    ],
-    "pdfs": [
-      {
-        "name": "Adoption Certificate",
-        "url": "https://www.10storylearning.com/s/PRISM-Pet-Adoption-Certificate-2.pdf"
-      },
-      {
-        "name": "Clue Document Set",
-        "url": "https://www.10storylearning.com/s/prism1-10-all-clues-s6r4.pdf"
-      },
-      {
-        "name": "Dog Search Answer Key",
-        "url": "https://www.10storylearning.com/s/Prism-Grand-Opening-Dog-Search-Help-Sheet-b36b.pdf"
-      },
-      {
-        "name": "Practice Sheet Answer Key / Help Sheet",
-        "url": "https://www.algebrastudio.org/s/10-Practice-answers.pdf"
-      },
-      {
-        "name": "Exit Ticket",
-        "url": "https://www.10storylearning.com/s/Dear-Diego-Session-10.pdf"
-      },
-      {
-        "name": "Petville Map",
-        "url": "https://www.10storylearning.com/s/prism1-2-map-howie-up5.pdf"
-      },
-      {
-        "name": "Clue Document Answer Key",
-        "url": "https://www.10storylearning.com/s/prism1-10-all-clues-answers.pdf"
       }
     ]
   }
