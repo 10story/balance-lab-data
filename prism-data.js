@@ -15,23 +15,23 @@ window.prismPetsupply = [
     "slides": [
       {
         "slide": 1,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/2a194c3f-ae5a-426a-a71c-7f8d6e5962ae/PRISM+landing+page+slides.001.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/a6e46f83-e66b-4632-bb07-732c7428619b/prism+landing+page.001.png?format=1000w"
       },
       {
         "slide": 2,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/f3637780-affd-4c4e-b500-7371b8aa6715/PRISM+landing+page+slides.002.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/b36def9c-d5b2-4964-8ef6-bc3a9b71a5a4/prism+landing+page.002.png?format=1000w"
       },
       {
         "slide": 3,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/9e45f934-29df-46ff-a92f-d48d5bffc83f/PRISM+landing+page+slides.003.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/b7001d18-9c64-45ea-b9e1-70d08e8ebbcc/prism+landing+page.003.png?format=1000w"
       },
       {
         "slide": 4,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/58485c32-a0e6-4307-ba3a-9ddc31e548c2/PRISM+landing+page+slides.004.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/22ef98a2-477e-4e32-963e-7c33c91931f1/prism+landing+page.004.png?format=1000w"
       },
       {
         "slide": 5,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/c475c98c-da6b-4aba-b080-0f5c011b5b72/PRISM+landing+page+slides.005.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/6161c4d7-bd24-4778-a515-b5ff1803661e/prism+landing+page.005.png?format=1000w"
       }
     ]
   },
