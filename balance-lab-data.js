@@ -1,4 +1,4 @@
-window.balanceLab = [
+window.balanceLabData = [
   {
     "lesson": 1,
     "lessonName": "Lesson 1",
@@ -25,7 +25,9 @@ window.balanceLab = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": null,
+        "url": "https://algebrastudio.org/balance-printables-1",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Pre-Assessment",
@@ -194,8 +196,10 @@ window.balanceLab = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
-        "url": null,
+        "membership": 1,
+        "url": "https://algebrastudio.org/balance-printables-2",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Weight Relationships Sheet",
@@ -353,8 +357,10 @@ window.balanceLab = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
-        "url": null,
+        "membership": 1,
+        "url": "https://algebrastudio.org/balance-printables-3",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Weight Relationships Sheet",
@@ -479,8 +485,10 @@ window.balanceLab = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
-        "url": null,
+        "membership": 1,
+        "url": "https://algebrastudio.org/balance-printables-4",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Puzzle Level 1 (self-check)",
@@ -662,7 +670,9 @@ window.balanceLab = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": null,
+        "url": "https://algebrastudio.org/balance-printables-5",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Practice Sheet",
@@ -834,7 +844,9 @@ window.balanceLab = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": null,
+        "url": "https://algebrastudio.org/balance-printables-6",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Practice Sheet",
@@ -984,7 +996,9 @@ window.balanceLab = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": null,
+        "url": "https://algebrastudio.org/balance-printables-7",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Practice Sheet",
@@ -1122,7 +1136,9 @@ window.balanceLab = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": null,
+        "url": "https://algebrastudio.org/balance-printables-8",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Exit Ticket",
@@ -1256,7 +1272,9 @@ window.balanceLab = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": null,
+        "url": "https://algebrastudio.org/balance-printables-9",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "ZERO OUT Number Line",
@@ -1397,7 +1415,9 @@ window.balanceLab = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": null,
+        "url": "https://algebrastudio.org/balance-printables-10",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Exit Ticket",
@@ -1527,7 +1547,9 @@ window.balanceLab = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": null,
+        "url": "https://algebrastudio.org/balance-printables-11",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Exit Ticket",
@@ -1653,7 +1675,9 @@ window.balanceLab = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": null,
+        "url": "https://algebrastudio.org/balance-printables-12",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Graphic Organizer",
@@ -1772,7 +1796,9 @@ window.balanceLab = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": null,
+        "url": "https://algebrastudio.org/balance-printables-13",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Practice Sheet",
@@ -1894,7 +1920,9 @@ window.balanceLab = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": null,
+        "url": "https://algebrastudio.org/balance-printables-14",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Exit Ticket",
