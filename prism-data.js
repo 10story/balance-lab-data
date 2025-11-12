@@ -12,77 +12,23 @@ window.prismPetsupply = [
     ],
     "videos": [],
     "pdfSections": [],
-    "slides": []
-  },
-  {
-    "lesson": "HOME",
-    "lessonName": "HOME",
-    "prints": null,
-    "materials": null,
-    "controls": [],
-    "videos": [],
-    "pdfSections": [],
     "slides": [
       {
         "slide": 1,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/a6e46f83-e66b-4632-bb07-732c7428619b/prism+landing+page.001.png?format=1000w"
-      }
-    ]
-  },
-  {
-    "lesson": "HOME",
-    "lessonName": "HOME",
-    "prints": null,
-    "materials": null,
-    "controls": [],
-    "videos": [],
-    "pdfSections": [],
-    "slides": [
+      },
       {
         "slide": 2,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/b36def9c-d5b2-4964-8ef6-bc3a9b71a5a4/prism+landing+page.002.png?format=1000w"
-      }
-    ]
-  },
-  {
-    "lesson": "HOME",
-    "lessonName": "HOME",
-    "prints": null,
-    "materials": null,
-    "controls": [],
-    "videos": [],
-    "pdfSections": [],
-    "slides": [
+      },
       {
         "slide": 3,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/b7001d18-9c64-45ea-b9e1-70d08e8ebbcc/prism+landing+page.003.png?format=1000w"
-      }
-    ]
-  },
-  {
-    "lesson": "HOME",
-    "lessonName": "HOME",
-    "prints": null,
-    "materials": null,
-    "controls": [],
-    "videos": [],
-    "pdfSections": [],
-    "slides": [
+      },
       {
         "slide": 4,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/22ef98a2-477e-4e32-963e-7c33c91931f1/prism+landing+page.004.png?format=1000w"
-      }
-    ]
-  },
-  {
-    "lesson": "HOME",
-    "lessonName": "HOME",
-    "prints": null,
-    "materials": null,
-    "controls": [],
-    "videos": [],
-    "pdfSections": [],
-    "slides": [
+      },
       {
         "slide": 5,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/6161c4d7-bd24-4778-a515-b5ff1803661e/prism+landing+page.005.png?format=1000w"
@@ -115,7 +61,9 @@ window.prismPetsupply = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": "https://www.algebrastudio.org/prism-printables-1a",
+        "url": "https://www.algebrastudio.org/prism-printables-1",
+        "scissors": 1,
+        "tape": 1,
         "items": [
           {
             "name": "Name Cards",
@@ -138,9 +86,7 @@ window.prismPetsupply = [
             "scissors": null,
             "tape": null
           }
-        ],
-        "scissors": 1,
-        "tape": 1
+        ]
       },
       {
         "heading": "GRIDS",
@@ -351,6 +297,8 @@ window.prismPetsupply = [
         "strong": false,
         "membership": 0,
         "url": "https://www.algebrastudio.org/prism-printables-2",
+        "scissors": 1,
+        "tape": 1,
         "items": [
           {
             "name": "PRISM Ruler",
@@ -401,9 +349,7 @@ window.prismPetsupply = [
             "scissors": null,
             "tape": null
           }
-        ],
-        "scissors": 1,
-        "tape": 1
+        ]
       }
     ],
     "slides": [
@@ -543,6 +489,8 @@ window.prismPetsupply = [
         "strong": false,
         "membership": 0,
         "url": "https://www.algebrastudio.org/prism-printables-3",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Exit Ticket",
@@ -551,9 +499,7 @@ window.prismPetsupply = [
             "scissors": null,
             "tape": null
           }
-        ],
-        "scissors": null,
-        "tape": null
+        ]
       },
       {
         "heading": "PLAY ZONES",
@@ -757,6 +703,8 @@ window.prismPetsupply = [
         "strong": false,
         "membership": 1,
         "url": "https://www.algebrastudio.org/prism-printables-4",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Parking Lot Grid",
@@ -800,9 +748,7 @@ window.prismPetsupply = [
             "scissors": null,
             "tape": null
           }
-        ],
-        "scissors": null,
-        "tape": null
+        ]
       }
     ],
     "slides": [
@@ -946,6 +892,8 @@ window.prismPetsupply = [
         "strong": false,
         "membership": 1,
         "url": "https://www.algebrastudio.org/prism-printables-5",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Box Bottoms",
@@ -968,9 +916,7 @@ window.prismPetsupply = [
             "scissors": null,
             "tape": null
           }
-        ],
-        "scissors": null,
-        "tape": null
+        ]
       }
     ],
     "slides": [
@@ -1093,6 +1039,8 @@ window.prismPetsupply = [
         "strong": false,
         "membership": 1,
         "url": "https://www.algebrastudio.org/prism-printables-6",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Tic Tac Tables Board",
@@ -1129,9 +1077,7 @@ window.prismPetsupply = [
             "scissors": null,
             "tape": null
           }
-        ],
-        "scissors": null,
-        "tape": null
+        ]
       }
     ],
     "slides": [
@@ -1279,6 +1225,8 @@ window.prismPetsupply = [
         "strong": false,
         "membership": 1,
         "url": "https://www.algebrastudio.org/s/All-Printables-Lesson-7.pdf",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Fish Castle Materials",
@@ -1301,9 +1249,7 @@ window.prismPetsupply = [
             "scissors": null,
             "tape": null
           }
-        ],
-        "scissors": null,
-        "tape": null
+        ]
       }
     ],
     "slides": [
@@ -1418,6 +1364,8 @@ window.prismPetsupply = [
         "strong": false,
         "membership": 1,
         "url": "https://www.algebrastudio.org/s/All-Printables-Lesson-8.pdf",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Sign Instructions",
@@ -1447,9 +1395,7 @@ window.prismPetsupply = [
             "scissors": null,
             "tape": null
           }
-        ],
-        "scissors": null,
-        "tape": null
+        ]
       }
     ],
     "slides": [
@@ -1552,6 +1498,8 @@ window.prismPetsupply = [
         "strong": false,
         "membership": 1,
         "url": "https://www.algebrastudio.org/s/All-Printables-Lesson-9.pdf",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Commercial Script",
@@ -1567,9 +1515,7 @@ window.prismPetsupply = [
             "scissors": 1,
             "tape": null
           }
-        ],
-        "scissors": null,
-        "tape": null
+        ]
       }
     ],
     "slides": [
@@ -1671,6 +1617,8 @@ window.prismPetsupply = [
         "strong": false,
         "membership": 1,
         "url": "https://www.algebrastudio.org/s/All-Printables-Lesson-10.pdf",
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Map of Petville",
@@ -1721,9 +1669,7 @@ window.prismPetsupply = [
             "scissors": 1,
             "tape": null
           }
-        ],
-        "scissors": null,
-        "tape": null
+        ]
       }
     ],
     "slides": [
