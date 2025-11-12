@@ -1,5 +1,95 @@
 window.prismPetsupply = [
   {
+    "lesson": "HOME",
+    "lessonName": "HOME",
+    "prints": null,
+    "materials": null,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Welcome"
+      }
+    ],
+    "videos": [],
+    "pdfSections": [],
+    "slides": []
+  },
+  {
+    "lesson": "HOME",
+    "lessonName": "HOME",
+    "prints": null,
+    "materials": null,
+    "controls": [],
+    "videos": [],
+    "pdfSections": [],
+    "slides": [
+      {
+        "slide": 1,
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/a6e46f83-e66b-4632-bb07-732c7428619b/prism+landing+page.001.png?format=1000w"
+      }
+    ]
+  },
+  {
+    "lesson": "HOME",
+    "lessonName": "HOME",
+    "prints": null,
+    "materials": null,
+    "controls": [],
+    "videos": [],
+    "pdfSections": [],
+    "slides": [
+      {
+        "slide": 2,
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/b36def9c-d5b2-4964-8ef6-bc3a9b71a5a4/prism+landing+page.002.png?format=1000w"
+      }
+    ]
+  },
+  {
+    "lesson": "HOME",
+    "lessonName": "HOME",
+    "prints": null,
+    "materials": null,
+    "controls": [],
+    "videos": [],
+    "pdfSections": [],
+    "slides": [
+      {
+        "slide": 3,
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/b7001d18-9c64-45ea-b9e1-70d08e8ebbcc/prism+landing+page.003.png?format=1000w"
+      }
+    ]
+  },
+  {
+    "lesson": "HOME",
+    "lessonName": "HOME",
+    "prints": null,
+    "materials": null,
+    "controls": [],
+    "videos": [],
+    "pdfSections": [],
+    "slides": [
+      {
+        "slide": 4,
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/22ef98a2-477e-4e32-963e-7c33c91931f1/prism+landing+page.004.png?format=1000w"
+      }
+    ]
+  },
+  {
+    "lesson": "HOME",
+    "lessonName": "HOME",
+    "prints": null,
+    "materials": null,
+    "controls": [],
+    "videos": [],
+    "pdfSections": [],
+    "slides": [
+      {
+        "slide": 5,
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/6161c4d7-bd24-4778-a515-b5ff1803661e/prism+landing+page.005.png?format=1000w"
+      }
+    ]
+  },
+  {
     "lesson": 1,
     "lessonName": "Make a Blueprint",
     "prints": 1,
