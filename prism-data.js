@@ -665,7 +665,7 @@ window.prismPetsupply = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
+        "membership": 1,
         "url": "https://www.algebrastudio.org/prism-printables-4",
         "items": [
           {
@@ -854,7 +854,7 @@ window.prismPetsupply = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
+        "membership": 1,
         "url": "https://www.algebrastudio.org/prism-printables-5",
         "items": [
           {
@@ -1001,7 +1001,7 @@ window.prismPetsupply = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
+        "membership": 1,
         "url": "https://www.algebrastudio.org/prism-printables-6",
         "items": [
           {
@@ -1187,7 +1187,7 @@ window.prismPetsupply = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
+        "membership": 1,
         "url": "https://www.algebrastudio.org/s/All-Printables-Lesson-7.pdf",
         "items": [
           {
@@ -1326,7 +1326,7 @@ window.prismPetsupply = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
+        "membership": 1,
         "url": "https://www.algebrastudio.org/s/All-Printables-Lesson-8.pdf",
         "items": [
           {
@@ -1460,7 +1460,7 @@ window.prismPetsupply = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
+        "membership": 1,
         "url": "https://www.algebrastudio.org/s/All-Printables-Lesson-9.pdf",
         "items": [
           {
@@ -1579,7 +1579,7 @@ window.prismPetsupply = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
+        "membership": 1,
         "url": "https://www.algebrastudio.org/s/All-Printables-Lesson-10.pdf",
         "items": [
           {
