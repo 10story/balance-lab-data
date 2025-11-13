@@ -1,5 +1,41 @@
 window.balanceLabData = [
   {
+    "lesson": "HOME",
+    "lessonName": "HOME",
+    "prints": null,
+    "materials": null,
+    "controls": [
+      {
+        "type": "Slides",
+        "name": "Welcome"
+      }
+    ],
+    "videos": [],
+    "pdfSections": [],
+    "slides": [
+      {
+        "slide": 1,
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/e2c8a5e8-8b54-4292-a01a-788c49c473e5/Math+Lab+Landing+Pages+-+algebra.001.png?format=750w"
+      },
+      {
+        "slide": 2,
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/46cc20d2-285a-4b6b-b9fc-2c7b5018f03f/Math+Lab+Landing+Pages+-+algebra.002.png?format=750w"
+      },
+      {
+        "slide": 3,
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/6cbe142f-7bf4-4e79-9c4a-3cb63170b695/Math+Lab+Landing+Pages+-+algebra.003.png?format=750w"
+      },
+      {
+        "slide": 4,
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/9fa82ca8-1e29-42a6-ba46-8e044577151c/Math+Lab+Landing+Pages+-+algebra.004.png?format=750w"
+      },
+      {
+        "slide": 5,
+        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/2d894431-f174-4939-bb59-fd4a88f077d2/Math+Lab+Landing+Pages+-+algebra.005.png?format=750w"
+      }
+    ]
+  },
+  {
     "lesson": 1,
     "lessonName": "Lesson 1",
     "prints": 1,
@@ -196,7 +232,7 @@ window.balanceLabData = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 1,
+        "membership": 0,
         "url": "https://algebrastudio.org/balance-printables-2",
         "scissors": null,
         "tape": null,
@@ -1271,7 +1307,7 @@ window.balanceLabData = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
+        "membership": 1,
         "url": "https://algebrastudio.org/balance-printables-9",
         "scissors": null,
         "tape": null,
@@ -1414,7 +1450,7 @@ window.balanceLabData = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
+        "membership": 1,
         "url": "https://algebrastudio.org/balance-printables-10",
         "scissors": null,
         "tape": null,
@@ -1465,7 +1501,7 @@ window.balanceLabData = [
       },
       {
         "slide": 4,
-        "url": "https://www.algebrastudio.org/balance-lab-lesson-10#video"
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b5776c75-0e62-46c5-a993-fde511559203/SESSION+10+SLIDES.003.png?format=2500w"
       },
       {
         "slide": 5,
@@ -1546,7 +1582,7 @@ window.balanceLabData = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
+        "membership": 1,
         "url": "https://algebrastudio.org/balance-printables-11",
         "scissors": null,
         "tape": null,
@@ -1674,7 +1710,7 @@ window.balanceLabData = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
+        "membership": 1,
         "url": "https://algebrastudio.org/balance-printables-12",
         "scissors": null,
         "tape": null,
@@ -1795,7 +1831,7 @@ window.balanceLabData = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
+        "membership": 1,
         "url": "https://algebrastudio.org/balance-printables-13",
         "scissors": null,
         "tape": null,
@@ -1919,7 +1955,7 @@ window.balanceLabData = [
       {
         "heading": "Download All Printables",
         "strong": false,
-        "membership": 0,
+        "membership": 1,
         "url": "https://algebrastudio.org/balance-printables-14",
         "scissors": null,
         "tape": null,
