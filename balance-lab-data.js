@@ -468,7 +468,8 @@ window.balanceLabData = [
       },
       {
         "slide": 10,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b1212888-426d-4857-8b4f-bd7d6f547861/51-65.009.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b1212888-426d-4857-8b4f-bd7d6f547861/51-65.009.png?format=2500w",
+        "videoId": "nddp6xiakd"
       },
       {
         "slide": 11,
@@ -786,7 +787,8 @@ window.balanceLabData = [
       },
       {
         "slide": 8,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/27615685-c3a1-4e6d-9edc-fff6597a7207/session+5+redo+slides.007.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/27615685-c3a1-4e6d-9edc-fff6597a7207/session+5+redo+slides.007.png?format=2500w",
+        "videoId": "tyqb127lyy"
       },
       {
         "slide": 9,
@@ -950,7 +952,8 @@ window.balanceLabData = [
       },
       {
         "slide": 9,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/5ae7d90c-01b4-4e6f-82e8-810bc0a34bbc/lesson+6+slides.008.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/5ae7d90c-01b4-4e6f-82e8-810bc0a34bbc/lesson+6+slides.008.png?format=2500w",
+        "videoId": "37zvevysyp"
       },
       {
         "slide": 10,
@@ -1090,7 +1093,8 @@ window.balanceLabData = [
       },
       {
         "slide": 6,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/46a76ed1-d6c4-4b14-9069-8cf40874c9c0/122-137.005.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/46a76ed1-d6c4-4b14-9069-8cf40874c9c0/122-137.005.png?format=2500w",
+        "videoId": "uha1thwl70"
       },
       {
         "slide": 7,
@@ -1222,7 +1226,8 @@ window.balanceLabData = [
       },
       {
         "slide": 4,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/3928885d-6dbd-426e-a8f2-a553df2955da/138-151.003.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/3928885d-6dbd-426e-a8f2-a553df2955da/138-151.003.png?format=2500w",
+        "videoId": "2cs8p221wz"
       },
       {
         "slide": 5,
@@ -1361,7 +1366,8 @@ window.balanceLabData = [
       },
       {
         "slide": 3,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/5e32434d-5909-4a51-952d-1e77372068b2/152-166.002.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/5e32434d-5909-4a51-952d-1e77372068b2/152-166.002.png?format=2500w",
+        "videoId": "5zachjwhbe"
       },
       {
         "slide": 4,
@@ -1377,7 +1383,8 @@ window.balanceLabData = [
       },
       {
         "slide": 7,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/d8c817b3-05d7-4abf-bd15-4d583b402917/152-166.006.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/d8c817b3-05d7-4abf-bd15-4d583b402917/152-166.006.png?format=2500w",
+        "videoId": "685j0sgb4o"
       },
       {
         "slide": 8,
@@ -1501,7 +1508,8 @@ window.balanceLabData = [
       },
       {
         "slide": 4,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b5776c75-0e62-46c5-a993-fde511559203/SESSION+10+SLIDES.003.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b5776c75-0e62-46c5-a993-fde511559203/SESSION+10+SLIDES.003.png?format=2500w",
+        "videoId": "ae6qtgle5k"
       },
       {
         "slide": 5,
@@ -1633,7 +1641,8 @@ window.balanceLabData = [
       },
       {
         "slide": 4,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/6a32c4ec-7aa0-4037-9dba-c71a68a9387a/SESSION+11+SLIDES.003.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/6a32c4ec-7aa0-4037-9dba-c71a68a9387a/SESSION+11+SLIDES.003.png?format=2500w",
+        "videoId": "rm4n00v94w"
       },
       {
         "slide": 5,
@@ -1754,7 +1763,8 @@ window.balanceLabData = [
       },
       {
         "slide": 4,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b79d3d59-ad87-4327-9262-84aa4309c192/session+12.003.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/b79d3d59-ad87-4327-9262-84aa4309c192/session+12.003.png?format=2500w",
+        "videoId": "kgrp9vymja"
       },
       {
         "slide": 5,
@@ -1882,7 +1892,8 @@ window.balanceLabData = [
       },
       {
         "slide": 4,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/4657ba91-2645-48b4-8aef-2d23c20076cb/208-219.003.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/4657ba91-2645-48b4-8aef-2d23c20076cb/208-219.003.png?format=2500w",
+        "videoId": "r0986ezqih"
       },
       {
         "slide": 5,
@@ -2006,7 +2017,8 @@ window.balanceLabData = [
       },
       {
         "slide": 4,
-        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/9f6e1e92-6868-4248-aaf7-1b35b3c22918/lesson+14+slides.003.png?format=2500w"
+        "url": "https://images.squarespace-cdn.com/content/v1/67b0f8a59e65415ea7dd54ca/9f6e1e92-6868-4248-aaf7-1b35b3c22918/lesson+14+slides.003.png?format=2500w",
+        "videoId": "nmvsrgkhtz"
       },
       {
         "slide": 5,
