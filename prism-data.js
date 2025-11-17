@@ -15,22 +15,14 @@ window.prismPetsupply = [
     "slides": [
       {
         "slide": 1,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/a6e46f83-e66b-4632-bb07-732c7428619b/prism+landing+page.001.png?format=1000w"
-      },
-      {
-        "slide": 2,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/b36def9c-d5b2-4964-8ef6-bc3a9b71a5a4/prism+landing+page.002.png?format=1000w"
-      },
-      {
-        "slide": 3,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/b7001d18-9c64-45ea-b9e1-70d08e8ebbcc/prism+landing+page.003.png?format=1000w"
       },
       {
-        "slide": 4,
+        "slide": 2,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/22ef98a2-477e-4e32-963e-7c33c91931f1/prism+landing+page.004.png?format=1000w"
       },
       {
-        "slide": 5,
+        "slide": 3,
         "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/6161c4d7-bd24-4778-a515-b5ff1803661e/prism+landing+page.005.png?format=1000w"
       }
     ]
@@ -61,7 +53,7 @@ window.prismPetsupply = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": "https://www.algebrastudio.org/prism-printables-1",
+        "url": "https://www.10storylearning.com/s/All-Printables-Lesson-1.pdf",
         "scissors": 1,
         "tape": 1,
         "items": [
@@ -93,6 +85,8 @@ window.prismPetsupply = [
         "strong": false,
         "membership": null,
         "url": null,
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Set of 8",
@@ -160,14 +154,14 @@ window.prismPetsupply = [
           {
             "name": "Full Size Blueprint (24 x 32)",
             "url": "https://www.10storylearning.com/s/PPS1-Blueprintposter-3.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Bonus Activities",
             "url": "https://www.10storylearning.com/s/Session-1-Bonus.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           }
@@ -279,16 +273,16 @@ window.prismPetsupply = [
     ],
     "videos": [
       {
-        "name": "Setup",
-        "wistiaId": "kc8x7uchvq"
-      },
-      {
         "name": "Measuring in PRISM Units",
         "wistiaId": "lf7w7ok0av"
       },
       {
         "name": "Creating a Bar Graph",
         "wistiaId": "l80z2xp0ja"
+      },
+      {
+        "name": "Setup",
+        "wistiaId": "kc8x7uchvq"
       }
     ],
     "pdfSections": [
@@ -296,7 +290,7 @@ window.prismPetsupply = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": "https://www.algebrastudio.org/prism-printables-2",
+        "url": "https://www.10storylearning.com/s/All-Printables-Lesson-2.pdf",
         "scissors": 1,
         "tape": 1,
         "items": [
@@ -338,14 +332,14 @@ window.prismPetsupply = [
           {
             "name": "Full Size Map (11 x 17)",
             "url": "https://www.10storylearning.com/s/prism1-2-map-howie-up5.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
-            "name": "Extra Map Challenges",
+            "name": "Map Challenges",
             "url": "https://www.10storylearning.com/s/Session-2-Bonus-lpx2.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           }
@@ -471,16 +465,16 @@ window.prismPetsupply = [
     ],
     "videos": [
       {
-        "name": "Setup",
-        "wistiaId": "pwq87dn0go"
-      },
-      {
         "name": "Measuring Area by Counting Tiles",
         "wistiaId": "j28296atux"
       },
       {
         "name": "Using Area to Calculate Cost",
         "wistiaId": "fhcftsrzge"
+      },
+      {
+        "name": "Setup",
+        "wistiaId": "pwq87dn0go"
       }
     ],
     "pdfSections": [
@@ -488,7 +482,7 @@ window.prismPetsupply = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 0,
-        "url": "https://www.algebrastudio.org/prism-printables-3",
+        "url": "https://www.10storylearning.com/s/All-Printables-Lesson-3.pdf",
         "scissors": null,
         "tape": null,
         "items": [
@@ -506,6 +500,8 @@ window.prismPetsupply = [
         "strong": false,
         "membership": null,
         "url": null,
+        "scissors": null,
+        "tape": null,
         "items": [
           {
             "name": "Fish",
@@ -557,9 +553,9 @@ window.prismPetsupply = [
             "tape": null
           },
           {
-            "name": "Extra: People Play Zone",
+            "name": "People Play Zone",
             "url": "",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           }
@@ -685,16 +681,16 @@ window.prismPetsupply = [
     ],
     "videos": [
       {
-        "name": "Setup",
-        "wistiaId": "2y5gkw7psq"
-      },
-      {
         "name": "Calculating Perimeter",
         "wistiaId": "drgt3cswz4"
       },
       {
         "name": "Designing a Parking Lot",
         "wistiaId": "sb94of3b7z"
+      },
+      {
+        "name": "Setup",
+        "wistiaId": "2y5gkw7psq"
       }
     ],
     "pdfSections": [
@@ -702,49 +698,49 @@ window.prismPetsupply = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 1,
-        "url": "https://www.algebrastudio.org/prism-printables-4",
+        "url": "https://www.10storylearning.com/s/All-Printables-Lesson-4.pdf",
         "scissors": null,
         "tape": null,
         "items": [
           {
             "name": "Parking Lot Grid",
             "url": "",
-            "membership": 0,
+            "membership": 1,
             "scissors": 1,
             "tape": 1
           },
           {
             "name": "Car Sheet",
             "url": "https://www.10storylearning.com/s/prism1-4-car-template.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": 1,
             "tape": null
           },
           {
             "name": "Exit Ticket",
             "url": "https://www.10storylearning.com/s/Dear-Diego-Session-4.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": 1,
             "tape": null
           },
           {
             "name": "Loading Dock",
             "url": "https://www.10storylearning.com/s/Session-4-Bonus.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Loading Dock Grid",
             "url": "https://www.10storylearning.com/s/Session-4-Bonus.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Full Size Parking Lot Grid (11x17)",
             "url": "https://www.10storylearning.com/s/prism1-4-parking-grid-compressed-2.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           }
@@ -878,12 +874,12 @@ window.prismPetsupply = [
     ],
     "videos": [
       {
-        "name": "Setup",
-        "wistiaId": "urwrmbhlt8"
-      },
-      {
         "name": "Calculating Area by Multiplying Side Lengths",
         "wistiaId": "lghfjvdnb8"
+      },
+      {
+        "name": "Setup",
+        "wistiaId": "urwrmbhlt8"
       }
     ],
     "pdfSections": [
@@ -891,28 +887,28 @@ window.prismPetsupply = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 1,
-        "url": "https://www.algebrastudio.org/prism-printables-5",
+        "url": "https://www.10storylearning.com/s/All-Printables-Lesson-5.pdf",
         "scissors": null,
         "tape": null,
         "items": [
           {
             "name": "Box Bottoms",
             "url": "https://www.10storylearning.com/s/PRISM-box-bottoms-14-sheets.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Exit Ticket",
             "url": "https://www.10storylearning.com/s/Dear-Diego-Session-5.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Bonus Activities",
             "url": "https://www.10storylearning.com/s/Session-5-Bonus.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           }
@@ -1021,16 +1017,16 @@ window.prismPetsupply = [
     ],
     "videos": [
       {
-        "name": "Setup",
-        "wistiaId": "esj2sd7fit"
-      },
-      {
         "name": "Arrays",
         "wistiaId": "iu1n6isijy"
       },
       {
         "name": "How to Play Tic Tac Tables",
         "wistiaId": "gqzfgfi1nu"
+      },
+      {
+        "name": "Setup",
+        "wistiaId": "esj2sd7fit"
       }
     ],
     "pdfSections": [
@@ -1038,42 +1034,42 @@ window.prismPetsupply = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 1,
-        "url": "https://www.algebrastudio.org/prism-printables-6",
+        "url": "https://www.10storylearning.com/s/All-Printables-Lesson-6-b297.pdf",
         "scissors": null,
         "tape": null,
         "items": [
           {
             "name": "Tic Tac Tables Board",
             "url": "",
-            "membership": 0,
+            "membership": 1,
             "scissors": 1,
             "tape": 1
           },
           {
             "name": "Display Tables Sheet",
             "url": "https://www.10storylearning.com/s/prism1-6-arrys-recording-v2.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Animal Questions Booklet",
             "url": "https://www.10storylearning.com/s/Question-Booklet-English.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Exit Ticket",
             "url": "https://www.10storylearning.com/s/Dear-Diego-Session-6.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": 1,
             "tape": null
           },
           {
             "name": "Full Size Tic Tac Tables Board (18 x 24)",
             "url": "https://www.10storylearning.com/s/Tic-Tic-Tables-V10-smaller.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           }
@@ -1211,12 +1207,12 @@ window.prismPetsupply = [
     ],
     "videos": [
       {
-        "name": "Setup",
-        "wistiaId": "z6brncp6cm"
-      },
-      {
         "name": "Counting Money",
         "wistiaId": "nnbhhielbx"
+      },
+      {
+        "name": "Setup",
+        "wistiaId": "z6brncp6cm"
       }
     ],
     "pdfSections": [
@@ -1224,28 +1220,28 @@ window.prismPetsupply = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 1,
-        "url": "https://www.algebrastudio.org/s/All-Printables-Lesson-7.pdf",
+        "url": "https://www.10storylearning.com/s/All-Printables-Lesson-7.pdf",
         "scissors": null,
         "tape": null,
         "items": [
           {
             "name": "Fish Castle Materials",
             "url": "https://www.10storylearning.com/s/prism1-7-fish-castle-materials.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "PRISM Money Sheet",
             "url": "https://www.10storylearning.com/s/prism1-6-prsim-dollars.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Bonus: New Product",
             "url": "https://www.10storylearning.com/s/Session-7-Bonus.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           }
@@ -1350,12 +1346,12 @@ window.prismPetsupply = [
     ],
     "videos": [
       {
-        "name": "Setup",
-        "wistiaId": "d6s4ql6bpd"
-      },
-      {
         "name": "Length & Width",
         "wistiaId": "c1imjbnbfu"
+      },
+      {
+        "name": "Setup",
+        "wistiaId": "d6s4ql6bpd"
       }
     ],
     "pdfSections": [
@@ -1363,35 +1359,35 @@ window.prismPetsupply = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 1,
-        "url": "https://www.algebrastudio.org/s/All-Printables-Lesson-8.pdf",
+        "url": "https://www.10storylearning.com/s/All-Printables-Lesson-8.pdf",
         "scissors": null,
         "tape": null,
         "items": [
           {
             "name": "Sign Instructions",
             "url": "https://www.10storylearning.com/s/PGO-8-SIGNINSTRUCTIONS-2.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Sign Shapes",
             "url": "https://www.10storylearning.com/s/PGO-8-SIGNSHAPES.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Exit Ticket",
             "url": "https://www.10storylearning.com/s/Dear-Diego-Session-8.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": 1,
             "tape": null
           },
           {
             "name": "Bonus Activity: Crate",
             "url": "https://www.10storylearning.com/s/Session-8-Bonus.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           }
@@ -1497,21 +1493,21 @@ window.prismPetsupply = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 1,
-        "url": "https://www.algebrastudio.org/s/All-Printables-Lesson-9.pdf",
+        "url": "https://www.10storylearning.com/s/All-Printables-Lesson-9.pdf",
         "scissors": null,
         "tape": null,
         "items": [
           {
             "name": "Commercial Script",
             "url": "https://www.10storylearning.com/s/PGO-9-COMMERCIALSCRIPT.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Exit Ticket",
             "url": "https://www.10storylearning.com/s/Dear-Diego-Session-9.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": 1,
             "tape": null
           }
@@ -1616,56 +1612,56 @@ window.prismPetsupply = [
         "heading": "Download All Printables",
         "strong": false,
         "membership": 1,
-        "url": "https://www.algebrastudio.org/s/All-Printables-Lesson-10.pdf",
+        "url": "https://www.10storylearning.com/s/All-Printables-Lesson-10.pdf",
         "scissors": null,
         "tape": null,
         "items": [
           {
             "name": "Map of Petville",
             "url": "https://www.10storylearning.com/s/prism1-2-map-howie-up5.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Clue Document Set",
             "url": "https://www.10storylearning.com/s/prism1-10-all-clues-s6r4.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": 1,
             "tape": null
           },
           {
             "name": "Clue Document Answer Key",
             "url": "https://www.10storylearning.com/s/prism1-10-all-clues-answers.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Dog Search Answer Key",
             "url": "https://www.10storylearning.com/s/Prism-Grand-Opening-Dog-Search-Help-Sheet-b36b.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Practice Sheet Answer Key / Help Sheet",
             "url": "https://www.algebrastudio.org/s/10-Practice-answers.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": null,
             "tape": null
           },
           {
             "name": "Exit Ticket",
             "url": "https://www.10storylearning.com/s/Dear-Diego-Session-10.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": 1,
             "tape": null
           },
           {
             "name": "Adoption Certificate",
             "url": "https://www.10storylearning.com/s/PRISM-Pet-Adoption-Certificate-2.pdf",
-            "membership": 0,
+            "membership": 1,
             "scissors": 1,
             "tape": null
           }
