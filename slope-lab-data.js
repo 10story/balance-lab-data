@@ -135,7 +135,12 @@ window.slopeLabData = [
         "name": "SLIDES: How Far Does It Usually Go?"
       }
     ],
-    "videos": [],
+    "videos": [
+      {
+        "name": "VIDEO: Calculating Average",
+        "wistiaId": "k2epdmfnxk"
+      }
+    ],
     "pdfSections": [
       {
         "heading": "Download All Printables",
@@ -170,7 +175,8 @@ window.slopeLabData = [
       },
       {
         "slide": 4,
-        "url": "https://images.squarespace-cdn.com/content/63c8d6e63d254d69ecd76836/c0f9a1c4-f8d9-4205-906d-cbdb4517b6d0/slope+lab+1+%26+2.026.png?content-type=image%2Fpng"
+        "url": "https://images.squarespace-cdn.com/content/63c8d6e63d254d69ecd76836/c0f9a1c4-f8d9-4205-906d-cbdb4517b6d0/slope+lab+1+%26+2.026.png?content-type=image%2Fpng",
+        "videoId": "k2epdmfnxk"
       },
       {
         "slide": 5,
