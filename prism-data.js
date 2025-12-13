@@ -1,33 +1,5 @@
 window.prismPetsupply = [
   {
-    "lesson": "HOME",
-    "lessonName": "HOME",
-    "prints": null,
-    "materials": null,
-    "controls": [
-      {
-        "type": "Slides",
-        "name": "Welcome"
-      }
-    ],
-    "videos": [],
-    "pdfSections": [],
-    "slides": [
-      {
-        "slide": 1,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/b7001d18-9c64-45ea-b9e1-70d08e8ebbcc/prism+landing+page.003.png?format=1000w"
-      },
-      {
-        "slide": 2,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/22ef98a2-477e-4e32-963e-7c33c91931f1/prism+landing+page.004.png?format=1000w"
-      },
-      {
-        "slide": 3,
-        "url": "https://images.squarespace-cdn.com/content/v1/63c8d6e63d254d69ecd76836/6161c4d7-bd24-4778-a515-b5ff1803661e/prism+landing+page.005.png?format=1000w"
-      }
-    ]
-  },
-  {
     "lesson": 1,
     "lessonName": "Make a Blueprint",
     "prints": 1,
@@ -44,7 +16,7 @@ window.prismPetsupply = [
     ],
     "videos": [
       {
-        "name": "Setup",
+        "name": "Getting Ready",
         "wistiaId": "6rdu35rism"
       }
     ],
@@ -281,7 +253,7 @@ window.prismPetsupply = [
         "wistiaId": "l80z2xp0ja"
       },
       {
-        "name": "Setup",
+        "name": "Getting Ready",
         "wistiaId": "kc8x7uchvq"
       }
     ],
@@ -473,7 +445,7 @@ window.prismPetsupply = [
         "wistiaId": "fhcftsrzge"
       },
       {
-        "name": "Setup",
+        "name": "Getting Ready",
         "wistiaId": "pwq87dn0go"
       }
     ],
@@ -675,7 +647,7 @@ window.prismPetsupply = [
         "name": "SLIDES: Design a Parking Lot"
       },
       {
-        "type": "timer",
+        "type": "Timer",
         "name": "Timer"
       }
     ],
@@ -689,7 +661,7 @@ window.prismPetsupply = [
         "wistiaId": "sb94of3b7z"
       },
       {
-        "name": "Setup",
+        "name": "Getting Ready",
         "wistiaId": "2y5gkw7psq"
       }
     ],
@@ -878,7 +850,7 @@ window.prismPetsupply = [
         "wistiaId": "lghfjvdnb8"
       },
       {
-        "name": "Setup",
+        "name": "Getting Ready",
         "wistiaId": "urwrmbhlt8"
       }
     ],
@@ -1007,11 +979,11 @@ window.prismPetsupply = [
     "materials": 1,
     "controls": [
       {
-        "type": "slides",
+        "type": "Slides",
         "name": "SLIDES: Table Displays"
       },
       {
-        "type": "timer",
+        "type": "Timer",
         "name": "Timer"
       }
     ],
@@ -1025,7 +997,7 @@ window.prismPetsupply = [
         "wistiaId": "gqzfgfi1nu"
       },
       {
-        "name": "Setup",
+        "name": "Getting Ready",
         "wistiaId": "esj2sd7fit"
       }
     ],
@@ -1193,7 +1165,7 @@ window.prismPetsupply = [
     "materials": 1,
     "controls": [
       {
-        "type": "slides",
+        "type": "Slides",
         "name": "SLIDES: Fish Castles"
       },
       {
@@ -1201,7 +1173,7 @@ window.prismPetsupply = [
         "name": "Teaching Tips"
       },
       {
-        "type": "timer",
+        "type": "Timer",
         "name": "Timer"
       }
     ],
@@ -1211,7 +1183,7 @@ window.prismPetsupply = [
         "wistiaId": "nnbhhielbx"
       },
       {
-        "name": "Setup",
+        "name": "Getting Ready",
         "wistiaId": "z6brncp6cm"
       }
     ],
@@ -1336,11 +1308,11 @@ window.prismPetsupply = [
     "materials": 1,
     "controls": [
       {
-        "type": "slides",
+        "type": "Slides",
         "name": "SLIDES: Signs"
       },
       {
-        "type": "timer",
+        "type": "Timer",
         "name": "Timer"
       }
     ],
@@ -1350,7 +1322,7 @@ window.prismPetsupply = [
         "wistiaId": "c1imjbnbfu"
       },
       {
-        "name": "Setup",
+        "name": "Getting Ready",
         "wistiaId": "d6s4ql6bpd"
       }
     ],
@@ -1474,17 +1446,17 @@ window.prismPetsupply = [
     "materials": 1,
     "controls": [
       {
-        "type": "slides",
+        "type": "Slides",
         "name": "SLIDES: The Commercial"
       },
       {
-        "type": "timer",
+        "type": "Timer",
         "name": "Timer"
       }
     ],
     "videos": [
       {
-        "name": "Setup",
+        "name": "Getting Ready",
         "wistiaId": "ve9or8y4tj"
       }
     ],
@@ -1593,17 +1565,17 @@ window.prismPetsupply = [
     "materials": 1,
     "controls": [
       {
-        "type": "slides",
+        "type": "Slides",
         "name": "SLIDES: Grand Opening"
       },
       {
-        "type": "timer",
+        "type": "Timer",
         "name": "Timer"
       }
     ],
     "videos": [
       {
-        "name": "Setup",
+        "name": "Getting Ready",
         "wistiaId": "2mm4xc4abb"
       }
     ],
